@@ -13,7 +13,7 @@ namespace Global.Managers.UserInterface
         public override Type ManagerType => typeof(UIManager);
 
 #pragma warning disable
-        [SerializeField] private List<WindowContainer> windowContainers;
+        [SerializeField] private List<BaseWindow> windows;
 #pragma warning restore
 
         private Dictionary<Type, BaseWindow> windowsDictionary = new Dictionary<Type, BaseWindow>();
@@ -30,9 +30,9 @@ namespace Global.Managers.UserInterface
 
         private void InitDictionary()
         {
-            foreach (WindowContainer container in windowContainers)
+            foreach (BaseWindow window in windows)
             {
-                windowsDictionary.Add(container.WindowType, container.Window);
+                windowsDictionary.Add(window.GetType(), window);
             }
         }
 
@@ -101,7 +101,7 @@ namespace Global.Managers.UserInterface
 
         private void SetTopOrder(BaseWindow window)
         {
-            window.Order = windowContainers.Select(container => container.Window.Order).Prepend(-1).Max() + 1;
+            window.Order = windows.Select(window => window.Order).Prepend(-1).Max() + 1;
         }
 
         private void SetLowestOrder(BaseWindow window)

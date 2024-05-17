@@ -1,0 +1,1972 @@
+<tbody>
+<tr>
+<td><a href="/wiki/Starting_Block" title="Starting Block"><img alt="Starting Block-thumb" src="https://static.wikia.nocookie.net/besiege/images/b/b2/Starting_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="20" data-image-name="Starting Block-thumb.png" data-image-key="Starting_Block-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/b/b2/Starting_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Starting_Block" title="Starting Block">Starting Block</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">000</span> <span style="white-space: nowrap;"><a href="/wiki/Basic" title="Basic"><img alt="Basic-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" decoding="async" loading="lazy" width="18" height="20" data-image-name="Basic-thumb.png" data-image-key="Basic-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Basic" class="mw-redirect" title="Basic">Basic</a></span>
+</td>
+<td>0
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.25
+</td>
+<td>0.3
+</td>
+<td>0.2
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Small_Wooden_Block" title="Small Wooden Block"><img alt="Small Wooden Block-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a4/Small_Wooden_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023111" decoding="async" loading="lazy" width="24" height="20" data-image-name="Small Wooden Block-thumb.png" data-image-key="Small_Wooden_Block-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a4/Small_Wooden_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023111" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Small_Wooden_Block" title="Small Wooden Block">Small Wooden Block</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">001</span> <span style="white-space: nowrap;"><a href="/wiki/Basic" title="Basic"><img alt="Basic-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" decoding="async" loading="lazy" width="18" height="20" data-image-name="Basic-thumb.png" data-image-key="Basic-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Basic" class="mw-redirect" title="Basic">Basic</a></span>
+</td>
+<td>15
+</td>
+<td>0.8 x 0.8 x 1
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>3 hits
+</td>
+<td>0.3
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span style="display: none;">0</span>6500
+</td>
+<td>35000
+</td></tr>
+<tr>
+<td><a href="/wiki/Wooden_Block" title="Wooden Block"><img alt="Wooden Block-thumb" src="https://static.wikia.nocookie.net/besiege/images/c/cc/Wooden_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="20" data-image-name="Wooden Block-thumb.png" data-image-key="Wooden_Block-thumb.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/besiege/images/c/cc/Wooden_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Wooden_Block" title="Wooden Block">Wooden Block</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">002</span> <span style="white-space: nowrap;"><a href="/wiki/Basic" title="Basic"><img alt="Basic-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" decoding="async" loading="lazy" width="18" height="20" data-image-name="Basic-thumb.png" data-image-key="Basic-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Basic" class="mw-redirect" title="Basic">Basic</a></span>
+</td>
+<td>1
+</td>
+<td>0.95 x 0.95 x 2
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>3 hits
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span style="display: none;">0</span>5500
+</td>
+<td>35000
+</td></tr>
+<tr>
+<td><a href="/wiki/Wooden_Pole" title="Wooden Pole"><img alt="Wooden Pole-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/df/Wooden_Pole-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110" decoding="async" loading="lazy" width="20" height="24" data-image-name="Wooden Pole-thumb.png" data-image-key="Wooden_Pole-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/df/Wooden_Pole-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Wooden_Pole" title="Wooden Pole">Wooden Pole</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">003</span> <span style="white-space: nowrap;"><a href="/wiki/Basic" title="Basic"><img alt="Basic-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" decoding="async" loading="lazy" width="18" height="20" data-image-name="Basic-thumb.png" data-image-key="Basic-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Basic" class="mw-redirect" title="Basic">Basic</a></span>
+</td>
+<td>41
+</td>
+<td>0.6 x 0.6 x 2
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>3 hits
+</td>
+<td>0.5
+</td>
+<td>0.6/0.3
+</td>
+<td>0
+</td>
+<td><span style="display: none;">0</span>5500
+</td>
+<td>35000
+</td></tr>
+<tr>
+<td><a href="/wiki/Log" title="Log"><img alt="Log-thumb" src="https://static.wikia.nocookie.net/besiege/images/6/68/Log-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023111" decoding="async" loading="lazy" width="24" height="21" data-image-name="Log-thumb.png" data-image-key="Log-thumb.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/besiege/images/6/68/Log-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023111" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Log" title="Log">Log</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">004</span> <span style="white-space: nowrap;"><a href="/wiki/Basic" title="Basic"><img alt="Basic-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" decoding="async" loading="lazy" width="18" height="20" data-image-name="Basic-thumb.png" data-image-key="Basic-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Basic" class="mw-redirect" title="Basic">Basic</a></span>
+</td>
+<td>63
+</td>
+<td>1 x 1 x 3
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>3 hits
+</td>
+<td>1
+</td>
+<td>0.3
+</td>
+<td>0.2
+</td>
+<td>11000
+</td>
+<td>70000
+</td></tr>
+<tr>
+<td><a href="/wiki/Brace" title="Brace"><img alt="Brace-thumb" src="https://static.wikia.nocookie.net/besiege/images/e/e3/Brace-thumb.png/revision/latest/scale-to-width-down/17?cb=20200519023109" decoding="async" loading="lazy" width="17" height="24" data-image-name="Brace-thumb.png" data-image-key="Brace-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/e/e3/Brace-thumb.png/revision/latest/scale-to-width-down/17?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Brace" title="Brace">Brace</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">005</span> <span style="white-space: nowrap;"><a href="/wiki/Basic" title="Basic"><img alt="Basic-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" decoding="async" loading="lazy" width="18" height="20" data-image-name="Basic-thumb.png" data-image-key="Basic-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Basic" class="mw-redirect" title="Basic">Basic</a></span>
+</td>
+<td>7
+</td>
+<td>0.4 x 0.4 x 0.4 (ends)
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>-
+</td>
+<td>0
+</td>
+<td><span style="display: none;">0</span>7700
+</td>
+<td><span style="display: none;">0</span>7700
+</td></tr>
+<tr>
+<td><a href="/wiki/Smooth_Surface_Block" title="Smooth Surface Block"><img alt="Smooth Surface Block-thumb" src="https://static.wikia.nocookie.net/besiege/images/5/56/Smooth_Surface_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="23" data-image-name="Smooth Surface Block-thumb.png" data-image-key="Smooth_Surface_Block-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/5/56/Smooth_Surface_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Smooth_Surface_Block" title="Smooth Surface Block">Smooth Surface Block</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">006</span> <span style="white-space: nowrap;"><a href="/wiki/Basic" title="Basic"><img alt="Basic-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" decoding="async" loading="lazy" width="18" height="20" data-image-name="Basic-thumb.png" data-image-key="Basic-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a4/Basic-thumb.png/revision/latest/scale-to-width-down/18?cb=20220520060436" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Basic" class="mw-redirect" title="Basic">Basic</a></span>
+</td>
+<td>12
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5 (variable)
+</td>
+<td>0.3
+</td>
+<td>0.2
+</td>
+<td>22000
+</td>
+<td>35000
+</td></tr>
+<tr>
+<td><a href="/wiki/Steering_Hinge" title="Steering Hinge"><img alt="Steering Hinge-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/1b/Steering_Hinge-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="18" data-image-name="Steering Hinge-thumb.png" data-image-key="Steering_Hinge-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/1b/Steering_Hinge-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Steering_Hinge" title="Steering Hinge">Steering Hinge</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">101</span> <span style="white-space: nowrap;"><a href="/wiki/Locomotion" title="Locomotion"><img alt="Locomotion-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" decoding="async" loading="lazy" width="20" height="20" data-image-name="Locomotion-thumb.png" data-image-key="Locomotion-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Locomotion" class="mw-redirect" title="Locomotion">Locomotion</a></span>
+</td>
+<td>28
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>16500
+</td>
+<td>35000
+</td></tr>
+<tr>
+<td><a href="/wiki/Steering_Block" title="Steering Block"><img alt="Steering Block-thumb" src="https://static.wikia.nocookie.net/besiege/images/0/0c/Steering_Block-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023110" decoding="async" loading="lazy" width="21" height="24" data-image-name="Steering Block-thumb.png" data-image-key="Steering_Block-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/0/0c/Steering_Block-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Steering_Block" title="Steering Block">Steering Block</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">102</span> <span style="white-space: nowrap;"><a href="/wiki/Locomotion" title="Locomotion"><img alt="Locomotion-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" decoding="async" loading="lazy" width="20" height="20" data-image-name="Locomotion-thumb.png" data-image-key="Locomotion-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Locomotion" class="mw-redirect" title="Locomotion">Locomotion</a></span>
+</td>
+<td>13
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>13750
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Powered_Wheel" title="Powered Wheel"><img alt="Powered Wheel-thumb" src="https://static.wikia.nocookie.net/besiege/images/7/7b/Powered_Wheel-thumb.png/revision/latest/scale-to-width-down/18?cb=20200519023111" decoding="async" loading="lazy" width="18" height="24" data-image-name="Powered Wheel-thumb.png" data-image-key="Powered_Wheel-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/7/7b/Powered_Wheel-thumb.png/revision/latest/scale-to-width-down/18?cb=20200519023111" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Powered_Wheel" title="Powered Wheel">Powered Wheel</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">103</span> <span style="white-space: nowrap;"><a href="/wiki/Locomotion" title="Locomotion"><img alt="Locomotion-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" decoding="async" loading="lazy" width="20" height="20" data-image-name="Locomotion-thumb.png" data-image-key="Locomotion-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Locomotion" class="mw-redirect" title="Locomotion">Locomotion</a></span>
+</td>
+<td>2
+</td>
+<td>2 x 2 x 0.5
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>4 hits
+</td>
+<td>1
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>55000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Unpowered_Wheel" title="Unpowered Wheel"><img alt="Unpowered Wheel-thumb" src="https://static.wikia.nocookie.net/besiege/images/8/88/Unpowered_Wheel-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110" decoding="async" loading="lazy" width="20" height="24" data-image-name="Unpowered Wheel-thumb.png" data-image-key="Unpowered_Wheel-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/8/88/Unpowered_Wheel-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Unpowered_Wheel" title="Unpowered Wheel">Unpowered Wheel</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">104</span> <span style="white-space: nowrap;"><a href="/wiki/Locomotion" title="Locomotion"><img alt="Locomotion-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" decoding="async" loading="lazy" width="20" height="20" data-image-name="Locomotion-thumb.png" data-image-key="Locomotion-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Locomotion" class="mw-redirect" title="Locomotion">Locomotion</a></span>
+</td>
+<td>40
+</td>
+<td>2 x 2 x 0.5
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>4 hits
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>0.2
+</td>
+<td>55000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Powered_Large_Wheel" title="Powered Large Wheel"><img alt="Powered Large Wheel-thumb" src="https://static.wikia.nocookie.net/besiege/images/b/b7/Powered_Large_Wheel-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023111" decoding="async" loading="lazy" width="22" height="24" data-image-name="Powered Large Wheel-thumb.png" data-image-key="Powered_Large_Wheel-thumb.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/besiege/images/b/b7/Powered_Large_Wheel-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023111" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Powered_Large_Wheel" class="mw-redirect" title="Powered Large Wheel">Powered Large Wheel</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">105</span> <span style="white-space: nowrap;"><a href="/wiki/Locomotion" title="Locomotion"><img alt="Locomotion-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" decoding="async" loading="lazy" width="20" height="20" data-image-name="Locomotion-thumb.png" data-image-key="Locomotion-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Locomotion" class="mw-redirect" title="Locomotion">Locomotion</a></span>
+</td>
+<td>46
+</td>
+<td>3 x 3 x 1
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>4 hits
+</td>
+<td>1
+</td>
+<td>0.8
+</td>
+<td>0
+</td>
+<td>55000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Unpowered_Large_Wheel" title="Unpowered Large Wheel"><img alt="Unpowered Large Wheel-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/35/Unpowered_Large_Wheel-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023110" decoding="async" loading="lazy" width="21" height="24" data-image-name="Unpowered Large Wheel-thumb.png" data-image-key="Unpowered_Large_Wheel-thumb.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/besiege/images/3/35/Unpowered_Large_Wheel-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><span class="new" title="Unpowered Large Wheel (page does not exist)" data-uncrawlable-url="L3dpa2kvVW5wb3dlcmVkX0xhcmdlX1doZWVsP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Unpowered Large Wheel</span>
+</td>
+<td style="text-align: left;"><span style="display: none;">106</span> <span style="white-space: nowrap;"><a href="/wiki/Locomotion" title="Locomotion"><img alt="Locomotion-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" decoding="async" loading="lazy" width="20" height="20" data-image-name="Locomotion-thumb.png" data-image-key="Locomotion-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Locomotion" class="mw-redirect" title="Locomotion">Locomotion</a></span>
+</td>
+<td>60
+</td>
+<td>3 x 3 x 1
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>4 hits
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>55000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Small_Wheel" title="Small Wheel"><img alt="Small Wheel-thumb" src="https://static.wikia.nocookie.net/besiege/images/c/ca/Small_Wheel-thumb.png/revision/latest/scale-to-width-down/10?cb=20200519023110" decoding="async" loading="lazy" width="10" height="24" data-image-name="Small Wheel-thumb.png" data-image-key="Small_Wheel-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/c/ca/Small_Wheel-thumb.png/revision/latest/scale-to-width-down/10?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Small_Wheel" title="Small Wheel">Small Wheel</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">107</span> <span style="white-space: nowrap;"><a href="/wiki/Locomotion" title="Locomotion"><img alt="Locomotion-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" decoding="async" loading="lazy" width="20" height="20" data-image-name="Locomotion-thumb.png" data-image-key="Locomotion-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Locomotion" class="mw-redirect" title="Locomotion">Locomotion</a></span>
+</td>
+<td>50
+</td>
+<td>0.3 x 0.7 x 1.1
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.1
+</td>
+<td>0
+</td>
+<td><span style="display: none;">0</span>6187
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Unpowered_Cog" title="Unpowered Cog"><img alt="Unpowered Cog-thumb" src="https://static.wikia.nocookie.net/besiege/images/e/ec/Unpowered_Cog-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110" decoding="async" loading="lazy" width="23" height="24" data-image-name="Unpowered Cog-thumb.png" data-image-key="Unpowered_Cog-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/e/ec/Unpowered_Cog-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><span class="new" title="Unpowered Cog (page does not exist)" data-uncrawlable-url="L3dpa2kvVW5wb3dlcmVkX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Unpowered Cog</span>
+</td>
+<td style="text-align: left;">
+</td>
+<td>38
+</td>
+<td>-
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Powered_Cog" title="Powered Cog"><img alt="Powered Cog-thumb" src="https://static.wikia.nocookie.net/besiege/images/e/e0/Powered_Cog-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110" decoding="async" loading="lazy" width="23" height="24" data-image-name="Powered Cog-thumb.png" data-image-key="Powered_Cog-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/e/e0/Powered_Cog-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Powered_Cog" title="Powered Cog">Powered Cog</a>
+</td>
+<td style="text-align: left;">
+</td>
+<td>39
+</td>
+<td>-
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Unpowered_Large_Cog" title="Unpowered Large Cog"><img alt="Unpowered Large Cog-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/af/Unpowered_Large_Cog-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110" decoding="async" loading="lazy" width="22" height="24" data-image-name="Unpowered Large Cog-thumb.png" data-image-key="Unpowered_Large_Cog-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/af/Unpowered_Large_Cog-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><span class="new" title="Unpowered Large Cog (page does not exist)" data-uncrawlable-url="L3dpa2kvVW5wb3dlcmVkX0xhcmdlX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Unpowered Large Cog</span>
+</td>
+<td style="text-align: left;"><span style="display: none;">110</span> <span style="white-space: nowrap;"><a href="/wiki/Locomotion" title="Locomotion"><img alt="Locomotion-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" decoding="async" loading="lazy" width="20" height="20" data-image-name="Locomotion-thumb.png" data-image-key="Locomotion-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/29/Locomotion-thumb.png/revision/latest/scale-to-width-down/20?cb=20220520060527" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Locomotion" class="mw-redirect" title="Locomotion">Locomotion</a></span>
+</td>
+<td>51
+</td>
+<td>5 x 5 x 1
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.1
+</td>
+<td>0
+</td>
+<td>55000
+</td>
+<td>35000
+</td></tr>
+<tr>
+<td><a href="/wiki/Swivel_Joint" title="Swivel Joint"><img alt="Swivel Joint-thumb" src="https://static.wikia.nocookie.net/besiege/images/7/7c/Swivel_Joint-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023110" decoding="async" loading="lazy" width="16" height="24" data-image-name="Swivel Joint-thumb.png" data-image-key="Swivel_Joint-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/7/7c/Swivel_Joint-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Swivel_Joint" title="Swivel Joint">Swivel Joint</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">201</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>19
+</td>
+<td>0.7 x 0.7 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.25
+</td>
+<td>0.2
+</td>
+<td><span style="display: none;">0</span>8250
+</td>
+<td>35000
+</td></tr>
+<tr>
+<td><a href="/wiki/Hinge" title="Hinge"><img alt="Hinge-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a2/Hinge-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110" decoding="async" loading="lazy" width="23" height="24" data-image-name="Hinge-thumb.png" data-image-key="Hinge-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a2/Hinge-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><span class="new" title="Hinge (page does not exist)" data-uncrawlable-url="L3dpa2kvSGluZ2U/YWN0aW9uPWVkaXQmcmVkbGluaz0x">Hinge</span>
+</td>
+<td style="text-align: left;"><span style="display: none;">202</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>5
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.3
+</td>
+<td>0.2
+</td>
+<td>18000
+</td>
+<td>35000
+</td></tr>
+<tr>
+<td><a href="/wiki/Ball_Joint" title="Ball Joint"><img alt="Ball Joint-thumb" src="https://static.wikia.nocookie.net/besiege/images/b/b0/Ball_Joint-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" decoding="async" loading="lazy" width="24" height="24" data-image-name="Ball Joint-thumb.png" data-image-key="Ball_Joint-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/b/b0/Ball_Joint-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><span class="new" title="Ball Joint (page does not exist)" data-uncrawlable-url="L3dpa2kvQmFsbF9Kb2ludD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Ball Joint</span>
+</td>
+<td style="text-align: left;"><span style="display: none;">203</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>44
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.3
+</td>
+<td>0
+</td>
+<td>18000
+</td>
+<td>35000
+</td></tr>
+<tr>
+<td><a href="/wiki/Axle_Linkage" title="Axle Linkage"><img alt="Axle Linkage-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/4d/Axle_Linkage-thumb.png/revision/latest/scale-to-width-down/24?cb=20230428115628" decoding="async" loading="lazy" width="24" height="24" data-image-name="Axle Linkage-thumb.png" data-image-key="Axle_Linkage-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/4d/Axle_Linkage-thumb.png/revision/latest/scale-to-width-down/24?cb=20230428115628" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><span class="new" title="Axle Linkage (page does not exist)" data-uncrawlable-url="L3dpa2kvQXhsZV9MaW5rYWdlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Axle Linkage</span>
+</td>
+<td style="text-align: left;"><span style="display: none;">203</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>76
+</td>
+<td>0.6 x 0.8 x 0.6
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.3
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>22000
+</td>
+<td>35000
+</td></tr>
+<tr>
+<td><a href="/wiki/Spinning_Block" title="Spinning Block"><img alt="Spinning Block-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a5/Spinning_Block-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023111" decoding="async" loading="lazy" width="19" height="24" data-image-name="Spinning Block-thumb.png" data-image-key="Spinning_Block-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a5/Spinning_Block-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023111" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Spinning_Block" title="Spinning Block">Spinning Block</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">204</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>22
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>0.2
+</td>
+<td>Infinite
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Suspension" title="Suspension"><img alt="Suspension-thumb" src="https://static.wikia.nocookie.net/besiege/images/7/7d/Suspension-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110" decoding="async" loading="lazy" width="19" height="24" data-image-name="Suspension-thumb.png" data-image-key="Suspension-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/7/7d/Suspension-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><span class="new" title="Suspension (page does not exist)" data-uncrawlable-url="L3dpa2kvU3VzcGVuc2lvbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Suspension</span>
+</td>
+<td style="text-align: left;"><span style="display: none;">205</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>16
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>15000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Slider" title="Slider"><img alt="Slider-thumb" src="https://static.wikia.nocookie.net/besiege/images/5/5d/Slider-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023111" decoding="async" loading="lazy" width="16" height="24" data-image-name="Slider-thumb.png" data-image-key="Slider-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/5/5d/Slider-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023111" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Slider" title="Slider">Slider</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">206</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>42
+</td>
+<td>0.8 x 0.7 x 1
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.25
+</td>
+<td>0
+</td>
+<td>34375
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Decoupler" title="Decoupler"><img alt="Decoupler-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/2b/Decoupler-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="23" data-image-name="Decoupler-thumb.png" data-image-key="Decoupler-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/2b/Decoupler-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Decoupler" title="Decoupler">Decoupler</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">207</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>4
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span style="display: none;">0</span>8250
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Piston" title="Piston"><img alt="Piston-thumb" src="https://static.wikia.nocookie.net/besiege/images/e/e7/Piston-thumb.png/revision/latest/scale-to-width-down/15?cb=20200519023110" decoding="async" loading="lazy" width="15" height="24" data-image-name="Piston-thumb.png" data-image-key="Piston-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/e/e7/Piston-thumb.png/revision/latest/scale-to-width-down/15?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Piston" title="Piston">Piston</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">208</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>18
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.25
+</td>
+<td>0
+</td>
+<td><span style="display: none;">0</span>8250
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Grabber" title="Grabber"><img alt="Grabber-thumb" src="https://static.wikia.nocookie.net/besiege/images/8/81/Grabber-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" decoding="async" loading="lazy" width="24" height="21" data-image-name="Grabber-thumb.png" data-image-key="Grabber-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/8/81/Grabber-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Grabber" title="Grabber">Grabber</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">209</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>27
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>13750
+</td>
+<td>Infinite
+</td></tr>
+<tr>
+<td><a href="/wiki/Contractible_Spring" title="Contractible Spring"><img alt="Contractible Spring-thumb" src="https://static.wikia.nocookie.net/besiege/images/e/e5/Contractible_Spring-thumb.png/revision/latest/scale-to-width-down/15?cb=20200519023109" decoding="async" loading="lazy" width="15" height="24" data-image-name="Contractible Spring-thumb.png" data-image-key="Contractible_Spring-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/e/e5/Contractible_Spring-thumb.png/revision/latest/scale-to-width-down/15?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Contractible_Spring" title="Contractible Spring">Contractible Spring</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">210</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>9
+</td>
+<td>0.5 x 0.5 x 0.5 (ends)
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.4
+</td>
+<td>-
+</td>
+<td>4
+</td>
+<td>Infinite
+</td>
+<td>Infinite
+</td></tr>
+<tr>
+<td><a href="/wiki/Winch" title="Winch"><img alt="Winch-thumb" src="https://static.wikia.nocookie.net/besiege/images/e/e0/Winch-thumb.png/revision/latest/scale-to-width-down/17?cb=20200519023110" decoding="async" loading="lazy" width="17" height="24" data-image-name="Winch-thumb.png" data-image-key="Winch-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/e/e0/Winch-thumb.png/revision/latest/scale-to-width-down/17?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Winch" title="Winch">Winch</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">211</span> <span style="white-space: nowrap;"><a href="/wiki/Mechanical" title="Mechanical"><img alt="Mechanical-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Mechanical-thumb.png" data-image-key="Mechanical-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/de/Mechanical-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Mechanical" class="mw-redirect" title="Mechanical">Mechanical</a></span>
+</td>
+<td>45
+</td>
+<td>0.6 x 0.6 x 0.6 (ends)
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>0.4
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>550000
+</td>
+<td>550000
+</td></tr>
+<tr>
+<td><a href="/wiki/Metal_Spike" title="Metal Spike"><img alt="Metal Spike-thumb" src="https://static.wikia.nocookie.net/besiege/images/e/ea/Metal_Spike-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110" decoding="async" loading="lazy" width="20" height="24" data-image-name="Metal Spike-thumb.png" data-image-key="Metal_Spike-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/e/ea/Metal_Spike-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Metal_Spike" title="Metal Spike">Metal Spike</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">301</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>20
+</td>
+<td>0.2 x 0.2 x 2.4
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.3
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span style="display: none;">0</span>6187
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Metal_Blade" title="Metal Blade"><img alt="Metal Blade-thumb" src="https://static.wikia.nocookie.net/besiege/images/0/01/Metal_Blade-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023111" decoding="async" loading="lazy" width="21" height="24" data-image-name="Metal Blade-thumb.png" data-image-key="Metal_Blade-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/0/01/Metal_Blade-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023111" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Metal_Blade" title="Metal Blade">Metal Blade</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">302</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>3
+</td>
+<td>1 x 0.1 x 3.8
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.3
+</td>
+<td>0.6
+</td>
+<td>0
+</td>
+<td><span style="display: none;">0</span>6187
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Circular_Saw" title="Circular Saw"><img alt="Circular Saw-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/2d/Circular_Saw-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023109" decoding="async" loading="lazy" width="21" height="24" data-image-name="Circular Saw-thumb.png" data-image-key="Circular_Saw-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/2d/Circular_Saw-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Circular_Saw" title="Circular Saw">Circular Saw</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">303</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>17
+</td>
+<td>2 x 2 x 0.5
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>0.2
+</td>
+<td>Infinite
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Cannon" title="Cannon"><img alt="Cannon-thumb" src="https://static.wikia.nocookie.net/besiege/images/7/7c/Cannon-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" decoding="async" loading="lazy" width="24" height="24" data-image-name="Cannon-thumb.png" data-image-key="Cannon-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/7/7c/Cannon-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Cannon" title="Cannon">Cannon</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">305</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>11
+</td>
+<td>1 x 2.5 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span class="wds-dropdown custom-tooltip"><span class="wds-dropdown__toggle">Infinite</span><div class="wds-dropdown__content" style="font-size: 12px; color: rgb(196, 196, 196); min-width: 200px; padding: 10px; margin-left: 90px; --darkreader-inline-color: #938e86;" data-darkreader-inline-color="">Vulnerable to <a href="/wiki/Tick_Damage" title="Tick Damage">Tick Damage</a></div></span>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Drill" title="Drill"><img alt="Drill-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/1b/Drill-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110" decoding="async" loading="lazy" width="23" height="24" data-image-name="Drill-thumb.png" data-image-key="Drill-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/1b/Drill-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Drill" title="Drill">Drill</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">305</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>48
+</td>
+<td>2 x 2 x 3
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1
+</td>
+<td>1000
+</td>
+<td>0
+</td>
+<td>Infinite
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Metal_Jaw" title="Metal Jaw"><img alt="Metal Jaw-thumb" src="https://static.wikia.nocookie.net/besiege/images/c/cb/Metal_Jaw-thumb.png/revision/latest/scale-to-width-down/24?cb=20230428115629" decoding="async" loading="lazy" width="24" height="18" data-image-name="Metal Jaw-thumb.png" data-image-key="Metal_Jaw-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/c/cb/Metal_Jaw-thumb.png/revision/latest/scale-to-width-down/24?cb=20230428115629" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><span class="new" title="Metal Jaw (page does not exist)" data-uncrawlable-url="L3dpa2kvTWV0YWxfSmF3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Metal Jaw</span>
+</td>
+<td style="text-align: left;"><span style="display: none;">305</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>77
+</td>
+<td>1.6 x 1.5 x 0.7
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.6
+</td>
+<td>0.1 (teeth), 0.6 (frame)
+</td>
+<td>0.2
+</td>
+<td>22000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Shrapnel_Cannon" title="Shrapnel Cannon"><img alt="Shrapnel Cannon-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/df/Shrapnel_Cannon-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="24" data-image-name="Shrapnel Cannon-thumb.png" data-image-key="Shrapnel_Cannon-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/df/Shrapnel_Cannon-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Shrapnel_Cannon" title="Shrapnel Cannon">Shrapnel Cannon</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">306</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>53
+</td>
+<td>1 x 1.5 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span class="wds-dropdown custom-tooltip"><span class="wds-dropdown__toggle">Infinite</span><div class="wds-dropdown__content" style="font-size: 12px; color: rgb(196, 196, 196); min-width: 200px; padding: 10px; margin-left: 90px; --darkreader-inline-color: #938e86;" data-darkreader-inline-color="">Vulnerable to <a href="/wiki/Tick_Damage" title="Tick Damage">Tick Damage</a></div></span>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Crossbow" title="Crossbow"><img alt="Crossbow-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/36/Crossbow-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="22" data-image-name="Crossbow-thumb.png" data-image-key="Crossbow-thumb.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/besiege/images/3/36/Crossbow-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Crossbow" title="Crossbow">Crossbow</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">307</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>61
+</td>
+<td>2.5 x 1 x 1.5
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>4 hits
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span style="display: none;">0</span>5500
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Flamethrower" title="Flamethrower"><img alt="Flamethrower-thumb" src="https://static.wikia.nocookie.net/besiege/images/c/cd/Flamethrower-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="23" data-image-name="Flamethrower-thumb.png" data-image-key="Flamethrower-thumb.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/besiege/images/c/cd/Flamethrower-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Flamethrower" title="Flamethrower">Flamethrower</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">308</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>21
+</td>
+<td>0.5 x 0.5 x 2.2
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.3
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span style="display: none;">0</span>6187
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Vacuum" title="Vacuum"><img alt="Vacuum-thumb" src="https://static.wikia.nocookie.net/besiege/images/e/e8/Vacuum-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110" decoding="async" loading="lazy" width="20" height="24" data-image-name="Vacuum-thumb.png" data-image-key="Vacuum-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/e/e8/Vacuum-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Vacuum" title="Vacuum">Vacuum</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">309</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>62
+</td>
+<td>2 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>Infinite
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Water_Cannon" title="Water Cannon"><img alt="Water Cannon-thumb" src="https://static.wikia.nocookie.net/besiege/images/5/56/Water_Cannon-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110" decoding="async" loading="lazy" width="19" height="24" data-image-name="Water Cannon-thumb.png" data-image-key="Water_Cannon-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/5/56/Water_Cannon-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Water_Cannon" title="Water Cannon">Water Cannon</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">310</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>56
+</td>
+<td>2 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span class="wds-dropdown custom-tooltip"><span class="wds-dropdown__toggle">Infinite</span><div class="wds-dropdown__content" style="font-size: 12px; color: rgb(196, 196, 196); min-width: 200px; padding: 10px; margin-left: 90px; --darkreader-inline-color: #938e86;" data-darkreader-inline-color="">Vulnerable to <a href="/wiki/Tick_Damage" title="Tick Damage">Tick Damage</a></div></span>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Torch" title="Torch"><img alt="Torch-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/30/Torch-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023110" decoding="async" loading="lazy" width="16" height="24" data-image-name="Torch-thumb.png" data-image-key="Torch-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/30/Torch-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Torch" title="Torch">Torch</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">311</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>47
+</td>
+<td>1.5 x 0.5 x 0.5
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span class="wds-dropdown custom-tooltip"><span class="wds-dropdown__toggle">Infinite</span><div class="wds-dropdown__content" style="font-size: 12px; color: rgb(196, 196, 196); min-width: 200px; padding: 10px; margin-left: 90px; --darkreader-inline-color: #938e86;" data-darkreader-inline-color="">Vulnerable to <a href="/wiki/Tick_Damage" title="Tick Damage">Tick Damage</a></div></span>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Bomb" title="Bomb"><img alt="Bomb-thumb" src="https://static.wikia.nocookie.net/besiege/images/9/97/Bomb-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" decoding="async" loading="lazy" width="24" height="24" data-image-name="Bomb-thumb.png" data-image-key="Bomb-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/9/97/Bomb-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Bomb" title="Bomb">Bomb</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">312</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>23
+</td>
+<td>1.9 x 1.9 x 1.9
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>1 hit
+</td>
+<td>0.5
+</td>
+<td>0.25
+</td>
+<td>0
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Remote_Grenade" title="Remote Grenade"><img alt="Remote Grenade-thumb" src="https://static.wikia.nocookie.net/besiege/images/f/f8/Remote_Grenade-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110" decoding="async" loading="lazy" width="22" height="24" data-image-name="Remote Grenade-thumb.png" data-image-key="Remote_Grenade-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/f/f8/Remote_Grenade-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Remote_Grenade" title="Remote Grenade">Remote Grenade</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">313</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>54
+</td>
+<td>1.4 x 1.4 x 1.4
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>1 hit
+</td>
+<td>0.5
+</td>
+<td>0.25
+</td>
+<td>0
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Explosive_Rocket" title="Explosive Rocket"><img alt="Explosive Rocket-thumb" src="https://static.wikia.nocookie.net/besiege/images/b/b2/Explosive_Rocket-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023109" decoding="async" loading="lazy" width="22" height="24" data-image-name="Explosive Rocket-thumb.png" data-image-key="Explosive_Rocket-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/b/b2/Explosive_Rocket-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Explosive_Rocket" title="Explosive Rocket">Explosive Rocket</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">314</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>59
+</td>
+<td>2.5 x 1 x 1
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>1 hit
+</td>
+<td>0.2
+</td>
+<td>0.25
+</td>
+<td>0.1
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Flaming_Ball" title="Flaming Ball"><img alt="Flaming Ball-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a1/Flaming_Ball-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="24" data-image-name="Flaming Ball-thumb.png" data-image-key="Flaming_Ball-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a1/Flaming_Ball-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Flaming_Ball" title="Flaming Ball">Flaming Ball</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">315</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>31
+</td>
+<td>1.9 x 1.9 x 1.9
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.25
+</td>
+<td>0
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Boulder" title="Boulder"><img alt="Boulder-thumb" src="https://static.wikia.nocookie.net/besiege/images/c/ca/Boulder-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110" decoding="async" loading="lazy" width="23" height="24" data-image-name="Boulder-thumb.png" data-image-key="Boulder-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/c/ca/Boulder-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><span class="new" title="Boulder (page does not exist)" data-uncrawlable-url="L3dpa2kvQm91bGRlcj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Boulder</span>
+</td>
+<td style="text-align: left;"><span style="display: none;">316</span> <span style="white-space: nowrap;"><a href="/wiki/Weaponry" title="Weaponry"><img alt="Weaponry-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Weaponry-thumb.png" data-image-key="Weaponry-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/13/Weaponry-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Weaponry" class="mw-redirect" title="Weaponry">Weaponry</a></span>
+</td>
+<td>36
+</td>
+<td>1.9 x 1.9 x 1.9
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>5
+</td>
+<td>0.25
+</td>
+<td>0
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Armor_Plate_(Small)" title="Armor Plate (Small)"><img alt="Armor Plate (Small)-thumb" src="https://static.wikia.nocookie.net/besiege/images/c/c6/Armor_Plate_%28Small%29-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" decoding="async" loading="lazy" width="24" height="24" data-image-name="Armor Plate (Small)-thumb.png" data-image-key="Armor_Plate_%28Small%29-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/c/c6/Armor_Plate_%28Small%29-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Armor_Plate_(Small)" class="mw-redirect" title="Armor Plate (Small)">Armor Plate (Small)</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">601</span> <span style="white-space: nowrap;"><a href="/wiki/Armour" title="Armour"><img alt="Armour-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Armour-thumb.png" data-image-key="Armour-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Armour" class="mw-redirect" title="Armour">Armour</a></span>
+</td>
+<td>24
+</td>
+<td>0.9 x 0.9 x 0.3
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.25
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span class="wds-dropdown custom-tooltip"><span class="wds-dropdown__toggle">Infinite</span><div class="wds-dropdown__content" style="font-size: 12px; color: rgb(196, 196, 196); min-width: 200px; padding: 10px; margin-left: 90px; --darkreader-inline-color: #938e86;" data-darkreader-inline-color="">Vulnerable to <a href="/wiki/Tick_Damage" title="Tick Damage">Tick Damage</a></div></span>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Armor_Plate_(Large)" title="Armor Plate (Large)"><img alt="Armor Plate (Large)-thumb" src="https://static.wikia.nocookie.net/besiege/images/8/80/Armor_Plate_%28Large%29-thumb.png/revision/latest/scale-to-width-down/14?cb=20200519023110" decoding="async" loading="lazy" width="14" height="24" data-image-name="Armor Plate (Large)-thumb.png" data-image-key="Armor_Plate_%28Large%29-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/8/80/Armor_Plate_%28Large%29-thumb.png/revision/latest/scale-to-width-down/14?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Armor_Plate_(Large)" class="mw-redirect" title="Armor Plate (Large)">Armor Plate (Large)</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">602</span> <span style="white-space: nowrap;"><a href="/wiki/Armour" title="Armour"><img alt="Armour-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Armour-thumb.png" data-image-key="Armour-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Armour" class="mw-redirect" title="Armour">Armour</a></span>
+</td>
+<td>32
+</td>
+<td>1.8 x 0.9 x 0.3
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.25
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span class="wds-dropdown custom-tooltip"><span class="wds-dropdown__toggle">Infinite</span><div class="wds-dropdown__content" style="font-size: 12px; color: rgb(196, 196, 196); min-width: 200px; padding: 10px; margin-left: 90px; --darkreader-inline-color: #938e86;" data-darkreader-inline-color="">Vulnerable to <a href="/wiki/Tick_Damage" title="Tick Damage">Tick Damage</a></div></span>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Armor_Plate_(Round)" title="Armor Plate (Round)"><img alt="Armor Plate (Round)-thumb" src="https://static.wikia.nocookie.net/besiege/images/f/f5/Armor_Plate_%28Round%29-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023109" decoding="async" loading="lazy" width="22" height="24" data-image-name="Armor Plate (Round)-thumb.png" data-image-key="Armor_Plate_%28Round%29-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/f/f5/Armor_Plate_%28Round%29-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Armor_Plate_(Round)" class="mw-redirect" title="Armor Plate (Round)">Armor Plate (Round)</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">603</span> <span style="white-space: nowrap;"><a href="/wiki/Armour" title="Armour"><img alt="Armour-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Armour-thumb.png" data-image-key="Armour-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Armour" class="mw-redirect" title="Armour">Armour</a></span>
+</td>
+<td>29
+</td>
+<td>2 x 2 x 0.3
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span class="wds-dropdown custom-tooltip"><span class="wds-dropdown__toggle">Infinite</span><div class="wds-dropdown__content" style="font-size: 12px; color: rgb(196, 196, 196); min-width: 200px; padding: 10px; margin-left: 90px; --darkreader-inline-color: #938e86;" data-darkreader-inline-color="">Vulnerable to <a href="/wiki/Tick_Damage" title="Tick Damage">Tick Damage</a></div></span>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Wooden_Panel" title="Wooden Panel"><img alt="Wooden Panel-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/4e/Wooden_Panel-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023110" decoding="async" loading="lazy" width="16" height="24" data-image-name="Wooden Panel-thumb.png" data-image-key="Wooden_Panel-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/4e/Wooden_Panel-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Wooden_Panel" title="Wooden Panel">Wooden Panel</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">605</span> <span style="white-space: nowrap;"><a href="/wiki/Armour" title="Armour"><img alt="Armour-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Armour-thumb.png" data-image-key="Armour-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Armour" class="mw-redirect" title="Armour">Armour</a></span>
+</td>
+<td>10
+</td>
+<td>0.6 x 1.5 x 0.2
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>3 hits
+</td>
+<td>0.35
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td><span style="display: none;">0</span>6187
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Build_Surface" title="Build Surface"><img alt="Build Surface-thumb" src="https://static.wikia.nocookie.net/besiege/images/b/b4/Build_Surface-thumb.png/revision/latest/scale-to-width-down/22?cb=20200610081735" decoding="async" loading="lazy" width="22" height="24" data-image-name="Build Surface-thumb.png" data-image-key="Build_Surface-thumb.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/besiege/images/b/b4/Build_Surface-thumb.png/revision/latest/scale-to-width-down/22?cb=20200610081735" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Build_Surface" title="Build Surface">Build Surface</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">610</span> <span style="white-space: nowrap;"><a href="/wiki/Armour" title="Armour"><img alt="Armour-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Armour-thumb.png" data-image-key="Armour-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Armour" class="mw-redirect" title="Armour">Armour</a></span>
+</td>
+<td>73
+</td>
+<td>Variable
+</td>
+<td>Material-dependent
+</td>
+<td>No
+</td>
+<td>Material-dependent
+</td>
+<td>Variable
+</td>
+<td>0.6
+</td>
+<td>-
+</td>
+<td>Variable
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Grip_Pad" title="Grip Pad"><img alt="Grip Pad-thumb" src="https://static.wikia.nocookie.net/besiege/images/5/52/Grip_Pad-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="14" data-image-name="Grip Pad-thumb.png" data-image-key="Grip_Pad-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/5/52/Grip_Pad-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Grip_Pad" title="Grip Pad">Grip Pad</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">606</span> <span style="white-space: nowrap;"><a href="/wiki/Armour" title="Armour"><img alt="Armour-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Armour-thumb.png" data-image-key="Armour-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Armour" class="mw-redirect" title="Armour">Armour</a></span>
+</td>
+<td>49
+</td>
+<td>0.8 x 0.8 x 0.2
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>1000
+</td>
+<td>0
+</td>
+<td>Infinite
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Plow" title="Plow"><img alt="Plow-thumb" src="https://static.wikia.nocookie.net/besiege/images/b/b2/Plow-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="21" data-image-name="Plow-thumb.png" data-image-key="Plow-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/b/b2/Plow-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Plow" title="Plow">Plow</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">607</span> <span style="white-space: nowrap;"><a href="/wiki/Armour" title="Armour"><img alt="Armour-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Armour-thumb.png" data-image-key="Armour-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Armour" class="mw-redirect" title="Armour">Armour</a></span>
+</td>
+<td>33
+</td>
+<td>2 x 2 x 3
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1
+</td>
+<td>0.1
+</td>
+<td>0.2
+</td>
+<td><span class="wds-dropdown custom-tooltip"><span class="wds-dropdown__toggle">Infinite</span><div class="wds-dropdown__content" style="font-size: 12px; color: rgb(196, 196, 196); min-width: 200px; padding: 10px; margin-left: 90px; --darkreader-inline-color: #938e86;" data-darkreader-inline-color="">Vulnerable to <a href="/wiki/Tick_Damage" title="Tick Damage">Tick Damage</a></div></span>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Half_Pipe" title="Half Pipe"><img alt="Half Pipe-thumb" src="https://static.wikia.nocookie.net/besiege/images/e/e3/Half_Pipe-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="18" data-image-name="Half Pipe-thumb.png" data-image-key="Half_Pipe-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/e/e3/Half_Pipe-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Half_Pipe" title="Half Pipe">Half Pipe</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">608</span> <span style="white-space: nowrap;"><a href="/wiki/Armour" title="Armour"><img alt="Armour-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Armour-thumb.png" data-image-key="Armour-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Armour" class="mw-redirect" title="Armour">Armour</a></span>
+</td>
+<td>37
+</td>
+<td>2 x 1.5 x 2.5
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1
+</td>
+<td>0.25
+</td>
+<td>0.2
+</td>
+<td><span class="wds-dropdown custom-tooltip"><span class="wds-dropdown__toggle">Infinite</span><div class="wds-dropdown__content" style="font-size: 12px; color: rgb(196, 196, 196); min-width: 200px; padding: 10px; margin-left: 90px; --darkreader-inline-color: #938e86;" data-darkreader-inline-color="">Vulnerable to <a href="/wiki/Tick_Damage" title="Tick Damage">Tick Damage</a></div></span>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Holder" title="Holder"><img alt="Holder-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/32/Holder-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023111" decoding="async" loading="lazy" width="20" height="24" data-image-name="Holder-thumb.png" data-image-key="Holder-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/32/Holder-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023111" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Holder" title="Holder">Holder</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">609</span> <span style="white-space: nowrap;"><a href="/wiki/Armour" title="Armour"><img alt="Armour-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Armour-thumb.png" data-image-key="Armour-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Armour" class="mw-redirect" title="Armour">Armour</a></span>
+</td>
+<td>30
+</td>
+<td>3 x 3 x 2.5
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6 (base), 1000 (cup)
+</td>
+<td>0.2
+</td>
+<td><span style="display: none;">0</span>9625
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Spike_Ball" title="Spike Ball"><img alt="Spike Ball-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/1e/Spike_Ball-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="22" data-image-name="Spike Ball-thumb.png" data-image-key="Spike_Ball-thumb.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/besiege/images/1/1e/Spike_Ball-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><span class="new" title="Spike Ball (page does not exist)" data-uncrawlable-url="L3dpa2kvU3Bpa2VfQmFsbD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Spike Ball</span>
+</td>
+<td style="text-align: left;"><span style="display: none;">610</span> <span style="white-space: nowrap;"><a href="/wiki/Armour" title="Armour"><img alt="Armour-thumb" src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Armour-thumb.png" data-image-key="Armour-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/4/43/Armour-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Armour" class="mw-redirect" title="Armour">Armour</a></span>
+</td>
+<td>6
+</td>
+<td>2 x 2 x 2
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>1
+</td>
+<td>0.6 (boxes), 0.1 (sphere)
+</td>
+<td>0
+</td>
+<td><span class="wds-dropdown custom-tooltip"><span class="wds-dropdown__toggle">Infinite</span><div class="wds-dropdown__content" style="font-size: 12px; color: rgb(196, 196, 196); min-width: 200px; padding: 10px; margin-left: 90px; --darkreader-inline-color: #938e86;" data-darkreader-inline-color="">Vulnerable to <a href="/wiki/Tick_Damage" title="Tick Damage">Tick Damage</a></div></span>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Flying_Block" title="Flying Block"><img alt="Flying Block-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a7/Flying_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="16" data-image-name="Flying Block-thumb.png" data-image-key="Flying_Block-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a7/Flying_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Flying_Block" title="Flying Block">Flying Block</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">401</span> <span style="white-space: nowrap;"><a href="/wiki/Flight" title="Flight"><img alt="Flight-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Flight-thumb.png" data-image-key="Flight-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Flight" class="mw-redirect" title="Flight">Flight</a></span>
+</td>
+<td>14
+</td>
+<td>1 x 1 x 1
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>2 hits
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.5 off, 1.5 on
+</td>
+<td>11687
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Propeller" title="Propeller"><img alt="Propeller-thumb" src="https://static.wikia.nocookie.net/besiege/images/c/ce/Propeller-thumb.png/revision/latest/scale-to-width-down/18?cb=20200519023110" decoding="async" loading="lazy" width="18" height="24" data-image-name="Propeller-thumb.png" data-image-key="Propeller-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/c/ce/Propeller-thumb.png/revision/latest/scale-to-width-down/18?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Propeller" title="Propeller">Propeller</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">402</span> <span style="white-space: nowrap;"><a href="/wiki/Flight" title="Flight"><img alt="Flight-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Flight-thumb.png" data-image-key="Flight-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Flight" class="mw-redirect" title="Flight">Flight</a></span>
+</td>
+<td>26
+</td>
+<td>0.4 x 0.1 x 2.6
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>2 hits
+</td>
+<td>0.3
+</td>
+<td>0.6
+</td>
+<td>0.015 axial
+</td>
+<td><span style="display: none;">0</span>6187
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Small_Propeller" title="Small Propeller"><img alt="Small Propeller-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/2e/Small_Propeller-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="24" data-image-name="Small Propeller-thumb.png" data-image-key="Small_Propeller-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/2e/Small_Propeller-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Small_Propeller" class="mw-redirect" title="Small Propeller">Small Propeller</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">403</span> <span style="white-space: nowrap;"><a href="/wiki/Flight" title="Flight"><img alt="Flight-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Flight-thumb.png" data-image-key="Flight-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Flight" class="mw-redirect" title="Flight">Flight</a></span>
+</td>
+<td>55
+</td>
+<td>0.4 x 0.1 x 2.6
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>2 hits
+</td>
+<td>0.3
+</td>
+<td>0.6
+</td>
+<td>0.015 axial
+</td>
+<td><span style="display: none;">0</span>6187
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Wing" title="Wing"><img alt="Wing-thumb" src="https://static.wikia.nocookie.net/besiege/images/f/fc/Wing-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110" decoding="async" loading="lazy" width="19" height="24" data-image-name="Wing-thumb.png" data-image-key="Wing-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/f/fc/Wing-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Wing" title="Wing">Wing</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">404</span> <span style="white-space: nowrap;"><a href="/wiki/Flight" title="Flight"><img alt="Flight-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Flight-thumb.png" data-image-key="Flight-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Flight" class="mw-redirect" title="Flight">Flight</a></span>
+</td>
+<td>25
+</td>
+<td>2.5 x 0.5 x 6
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.3
+</td>
+<td>0.6
+</td>
+<td>0.04 axial
+</td>
+<td><span style="display: none;">0</span>6187
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Wing_Panel" title="Wing Panel"><img alt="Wing Panel-thumb" src="https://static.wikia.nocookie.net/besiege/images/7/70/Wing_Panel-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="21" data-image-name="Wing Panel-thumb.png" data-image-key="Wing_Panel-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/7/70/Wing_Panel-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Wing_Panel" title="Wing Panel">Wing Panel</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">405</span> <span style="white-space: nowrap;"><a href="/wiki/Flight" title="Flight"><img alt="Flight-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Flight-thumb.png" data-image-key="Flight-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Flight" class="mw-redirect" title="Flight">Flight</a></span>
+</td>
+<td>34
+</td>
+<td>3 x 0.3 x 3
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.02 axial
+</td>
+<td><span style="display: none;">0</span>6187
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Ballast" title="Ballast"><img alt="Ballast-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a4/Ballast-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" decoding="async" loading="lazy" width="24" height="24" data-image-name="Ballast-thumb.png" data-image-key="Ballast-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a4/Ballast-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Ballast" title="Ballast">Ballast</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">406</span> <span style="white-space: nowrap;"><a href="/wiki/Flight" title="Flight"><img alt="Flight-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Flight-thumb.png" data-image-key="Flight-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Flight" class="mw-redirect" title="Flight">Flight</a></span>
+</td>
+<td>35
+</td>
+<td>1 x 1 x 1
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5 (variable)
+</td>
+<td>0.6
+</td>
+<td>0
+</td>
+<td><span style="display: none;">0</span>6187
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Balloon" title="Balloon"><img alt="Balloon-thumb" src="https://static.wikia.nocookie.net/besiege/images/5/57/Balloon-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" decoding="async" loading="lazy" width="24" height="24" data-image-name="Balloon-thumb.png" data-image-key="Balloon-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/5/57/Balloon-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Balloon" title="Balloon">Balloon</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">407</span> <span style="white-space: nowrap;"><a href="/wiki/Flight" title="Flight"><img alt="Flight-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Flight-thumb.png" data-image-key="Flight-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Flight" class="mw-redirect" title="Flight">Flight</a></span>
+</td>
+<td>43
+</td>
+<td>1.9 x 1.9 x 1.9
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>1 hit
+</td>
+<td>0.22
+</td>
+<td>0.6
+</td>
+<td>1
+</td>
+<td>45000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Hot_Air_Balloon" title="Hot Air Balloon"><img alt="Hot Air Balloon-thumb" src="https://static.wikia.nocookie.net/besiege/images/0/00/Hot_Air_Balloon-thumb.png/revision/latest/scale-to-width-down/24?cb=20220520015857" decoding="async" loading="lazy" width="24" height="24" data-image-name="Hot Air Balloon-thumb.png" data-image-key="Hot_Air_Balloon-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/0/00/Hot_Air_Balloon-thumb.png/revision/latest/scale-to-width-down/24?cb=20220520015857" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Hot_Air_Balloon" title="Hot Air Balloon">Hot Air Balloon</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">408</span> <span style="white-space: nowrap;"><a href="/wiki/Flight" title="Flight"><img alt="Flight-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Flight-thumb.png" data-image-key="Flight-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/a2/Flight-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Flight" class="mw-redirect" title="Flight">Flight</a></span>
+</td>
+<td>74
+</td>
+<td>3 x 3 x 3
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>1 hit
+</td>
+<td>0.5
+</td>
+<td>0.3
+</td>
+<td>1.5
+</td>
+<td>6187
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Sensor" title="Sensor"><img alt="Sensor-thumb" src="https://static.wikia.nocookie.net/besiege/images/a/ab/Sensor-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="23" data-image-name="Sensor-thumb.png" data-image-key="Sensor-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/a/ab/Sensor-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Sensor" title="Sensor">Sensor</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">501</span> <span style="white-space: nowrap;"><a href="/wiki/Automation" title="Automation"><img alt="Automation-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Automation-thumb.png" data-image-key="Automation-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Automation" class="mw-redirect" title="Automation">Automation</a></span>
+</td>
+<td>65
+</td>
+<td>0.8 x 1.9 x 0.9
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>Infinite
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Timer" title="Timer"><img alt="Timer-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/d7/Timer-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="24" data-image-name="Timer-thumb.png" data-image-key="Timer-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/d7/Timer-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Timer" title="Timer">Timer</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">502</span> <span style="white-space: nowrap;"><a href="/wiki/Automation" title="Automation"><img alt="Automation-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Automation-thumb.png" data-image-key="Automation-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Automation" class="mw-redirect" title="Automation">Automation</a></span>
+</td>
+<td>66
+</td>
+<td>0.8 x 0.8 x 0.7
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>22000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Altimeter" title="Altimeter"><img alt="Altimeter-thumb" src="https://static.wikia.nocookie.net/besiege/images/d/d1/Altimeter-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" decoding="async" loading="lazy" width="24" height="24" data-image-name="Altimeter-thumb.png" data-image-key="Altimeter-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/d/d1/Altimeter-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Altimeter" title="Altimeter">Altimeter</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">503</span> <span style="white-space: nowrap;"><a href="/wiki/Automation" title="Automation"><img alt="Automation-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Automation-thumb.png" data-image-key="Automation-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Automation" class="mw-redirect" title="Automation">Automation</a></span>
+</td>
+<td>67
+</td>
+<td>0.9 x 0.9 x 0.5
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>22000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Logic_Gate" title="Logic Gate"><img alt="Logic Gate-thumb" src="https://static.wikia.nocookie.net/besiege/images/f/fd/Logic_Gate-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110" decoding="async" loading="lazy" width="22" height="24" data-image-name="Logic Gate-thumb.png" data-image-key="Logic_Gate-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/f/fd/Logic_Gate-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Logic_Gate" title="Logic Gate">Logic Gate</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">504</span> <span style="white-space: nowrap;"><a href="/wiki/Automation" title="Automation"><img alt="Automation-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Automation-thumb.png" data-image-key="Automation-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Automation" class="mw-redirect" title="Automation">Automation</a></span>
+</td>
+<td>68
+</td>
+<td>0.9 x 1.1 x 0.5
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>22000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Anglometer" title="Anglometer"><img alt="Anglometer-thumb" src="https://static.wikia.nocookie.net/besiege/images/9/96/Anglometer-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023109" decoding="async" loading="lazy" width="23" height="24" data-image-name="Anglometer-thumb.png" data-image-key="Anglometer-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/9/96/Anglometer-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023109" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Anglometer" title="Anglometer">Anglometer</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">505</span> <span style="white-space: nowrap;"><a href="/wiki/Automation" title="Automation"><img alt="Automation-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Automation-thumb.png" data-image-key="Automation-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Automation" class="mw-redirect" title="Automation">Automation</a></span>
+</td>
+<td>69
+</td>
+<td>0.9 x 0.9 x 0.5
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>22000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Speedometer" title="Speedometer"><img alt="Speedometer-thumb" src="https://static.wikia.nocookie.net/besiege/images/2/2b/Speedometer-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110" decoding="async" loading="lazy" width="22" height="24" data-image-name="Speedometer-thumb.png" data-image-key="Speedometer-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/2/2b/Speedometer-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Speedometer" title="Speedometer">Speedometer</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">506</span> <span style="white-space: nowrap;"><a href="/wiki/Automation" title="Automation"><img alt="Automation-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Automation-thumb.png" data-image-key="Automation-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Automation" class="mw-redirect" title="Automation">Automation</a></span>
+</td>
+<td>70
+</td>
+<td>0.9 x 1.1 x 0.5
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>0.6
+</td>
+<td>0.2
+</td>
+<td>22000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Length_Detector" title="Length Detector"><img alt="Length Detector-thumb" src="https://static.wikia.nocookie.net/besiege/images/1/14/Length_Detector-thumb.png/revision/latest/scale-to-width-down/18?cb=20230428115629" decoding="async" loading="lazy" width="18" height="24" data-image-name="Length Detector-thumb.png" data-image-key="Length_Detector-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/1/14/Length_Detector-thumb.png/revision/latest/scale-to-width-down/18?cb=20230428115629" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Length_Detector" title="Length Detector">Length Detector</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">506</span> <span style="white-space: nowrap;"><a href="/wiki/Automation" title="Automation"><img alt="Automation-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Automation-thumb.png" data-image-key="Automation-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Automation" class="mw-redirect" title="Automation">Automation</a></span>
+</td>
+<td>75
+</td>
+<td>0.6 x 0.6 x 0.6 (ends)
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>0.5
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>550000
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Pin_Block" title="Pin Block"><img alt="Pin Block-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/32/Pin_Block-thumb.png/revision/latest/scale-to-width-down/11?cb=20200519023110" decoding="async" loading="lazy" width="11" height="24" data-image-name="Pin Block-thumb.png" data-image-key="Pin_Block-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/32/Pin_Block-thumb.png/revision/latest/scale-to-width-down/11?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Pin_Block" title="Pin Block">Pin Block</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">212</span> <span style="white-space: nowrap;"><a href="/wiki/Automation" title="Automation"><img alt="Automation-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Automation-thumb.png" data-image-key="Automation-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Automation" class="mw-redirect" title="Automation">Automation</a></span>
+</td>
+<td>57
+</td>
+<td>-
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Camera_Block" title="Camera Block"><img alt="Camera Block-thumb" src="https://static.wikia.nocookie.net/besiege/images/6/66/Camera_Block-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110" decoding="async" loading="lazy" width="19" height="24" data-image-name="Camera Block-thumb.png" data-image-key="Camera_Block-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/6/66/Camera_Block-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110" class=" lazyloaded"></a>
+</td>
+<td style="text-align: left; padding-top: 0.25em; padding-bottom: 0.25em"><a href="/wiki/Camera_Block" title="Camera Block">Camera Block</a>
+</td>
+<td style="text-align: left;"><span style="display: none;">213</span> <span style="white-space: nowrap;"><a href="/wiki/Automation" title="Automation"><img alt="Automation-thumb" src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" decoding="async" loading="lazy" width="20" height="20" data-image-name="Automation-thumb.png" data-image-key="Automation-thumb.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/besiege/images/3/37/Automation-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519024010" class=" ls-is-cached lazyloaded"></a>  <a href="/wiki/Automation" class="mw-redirect" title="Automation">Automation</a></span>
+</td>
+<td>58
+</td>
+<td>-
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td></tr></tbody>

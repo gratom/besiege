@@ -1,0 +1,529 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f86043a21c6a6914390d2da4a7486527, type: 3}
+  m_Name: rawAnalizer
+  m_EditorClassIdentifier: 
+  text: {fileID: 4900000, guid: 93286ae7004fc6245acb4faca2aedd95, type: 3}
+  savePath: Images/
+  reloadImages: 1
+  blocks:
+  - name: Starting Block
+    ID: 0
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/b/b2/Starting_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Small Wooden Block
+    ID: 15
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/a/a4/Small_Wooden_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023111
+  - name: Wooden Block
+    ID: 1
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/c/cc/Wooden_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Wooden Pole
+    ID: 41
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/d/df/Wooden_Pole-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110
+  - name: Log
+    ID: 63
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/6/68/Log-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023111
+  - name: Brace
+    ID: 7
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/e/e3/Brace-thumb.png/revision/latest/scale-to-width-down/17?cb=20200519023109
+  - name: Smooth Surface Block
+    ID: 12
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/5/56/Smooth_Surface_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Steering Hinge
+    ID: 28
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/1/1b/Steering_Hinge-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Steering Block
+    ID: 13
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/0/0c/Steering_Block-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023110
+  - name: Powered Wheel
+    ID: 2
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/7/7b/Powered_Wheel-thumb.png/revision/latest/scale-to-width-down/18?cb=20200519023111
+  - name: Unpowered Wheel
+    ID: 40
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/8/88/Unpowered_Wheel-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110
+  - name: Powered Large Wheel
+    ID: 46
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/b/b7/Powered_Large_Wheel-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023111
+  - name: Unpowered Large Wheel
+    ID: 60
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/3/35/Unpowered_Large_Wheel-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023110
+  - name: Small Wheel
+    ID: 50
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/c/ca/Small_Wheel-thumb.png/revision/latest/scale-to-width-down/10?cb=20200519023110
+  - name: Unpowered Cog
+    ID: 38
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/e/ec/Unpowered_Cog-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110
+  - name: Powered Cog
+    ID: 39
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/e/e0/Powered_Cog-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110
+  - name: Unpowered Large Cog
+    ID: 51
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/a/af/Unpowered_Large_Cog-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110
+  - name: Swivel Joint
+    ID: 19
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/7/7c/Swivel_Joint-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023110
+  - name: Hinge
+    ID: 5
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/a/a2/Hinge-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110
+  - name: Ball Joint
+    ID: 44
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/b/b0/Ball_Joint-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109
+  - name: Axle Linkage
+    ID: 76
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/4/4d/Axle_Linkage-thumb.png/revision/latest/scale-to-width-down/24?cb=20230428115628
+  - name: Spinning Block
+    ID: 22
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/a/a5/Spinning_Block-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023111
+  - name: Suspension
+    ID: 16
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/7/7d/Suspension-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110
+  - name: Slider
+    ID: 42
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/5/5d/Slider-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023111
+  - name: Decoupler
+    ID: 4
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/2/2b/Decoupler-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Piston
+    ID: 18
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/e/e7/Piston-thumb.png/revision/latest/scale-to-width-down/15?cb=20200519023110
+  - name: Grabber
+    ID: 27
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/8/81/Grabber-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109
+  - name: Contractible Spring
+    ID: 9
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/e/e5/Contractible_Spring-thumb.png/revision/latest/scale-to-width-down/15?cb=20200519023109
+  - name: Winch
+    ID: 45
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/e/e0/Winch-thumb.png/revision/latest/scale-to-width-down/17?cb=20200519023110
+  - name: Metal Spike
+    ID: 20
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/e/ea/Metal_Spike-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110
+  - name: Metal Blade
+    ID: 3
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/0/01/Metal_Blade-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023111
+  - name: Circular Saw
+    ID: 17
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/2/2d/Circular_Saw-thumb.png/revision/latest/scale-to-width-down/21?cb=20200519023109
+  - name: Cannon
+    ID: 11
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/7/7c/Cannon-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109
+  - name: Drill
+    ID: 48
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/1/1b/Drill-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110
+  - name: Metal Jaw
+    ID: 77
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/c/cb/Metal_Jaw-thumb.png/revision/latest/scale-to-width-down/24?cb=20230428115629
+  - name: Shrapnel Cannon
+    ID: 53
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/d/df/Shrapnel_Cannon-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Crossbow
+    ID: 61
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/3/36/Crossbow-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Flamethrower
+    ID: 21
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/c/cd/Flamethrower-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Vacuum
+    ID: 62
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/e/e8/Vacuum-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023110
+  - name: Water Cannon
+    ID: 56
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/5/56/Water_Cannon-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110
+  - name: Torch
+    ID: 47
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/3/30/Torch-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023110
+  - name: Bomb
+    ID: 23
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/9/97/Bomb-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109
+  - name: Remote Grenade
+    ID: 54
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/f/f8/Remote_Grenade-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110
+  - name: Explosive Rocket
+    ID: 59
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/b/b2/Explosive_Rocket-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023109
+  - name: Flaming Ball
+    ID: 31
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/a/a1/Flaming_Ball-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Boulder
+    ID: 36
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/c/ca/Boulder-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023110
+  - name: Armor Plate (Small)
+    ID: 24
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/c/c6/Armor_Plate_%28Small%29-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109
+  - name: Armor Plate (Large)
+    ID: 32
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/8/80/Armor_Plate_%28Large%29-thumb.png/revision/latest/scale-to-width-down/14?cb=20200519023110
+  - name: Armor Plate (Round)
+    ID: 29
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/f/f5/Armor_Plate_%28Round%29-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023109
+  - name: Wooden Panel
+    ID: 10
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/4/4e/Wooden_Panel-thumb.png/revision/latest/scale-to-width-down/16?cb=20200519023110
+  - name: Build Surface
+    ID: 73
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/b/b4/Build_Surface-thumb.png/revision/latest/scale-to-width-down/22?cb=20200610081735
+  - name: Grip Pad
+    ID: 49
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/5/52/Grip_Pad-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Plow
+    ID: 33
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/b/b2/Plow-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Half Pipe
+    ID: 37
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/e/e3/Half_Pipe-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Holder
+    ID: 30
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/3/32/Holder-thumb.png/revision/latest/scale-to-width-down/20?cb=20200519023111
+  - name: Spike Ball
+    ID: 6
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/1/1e/Spike_Ball-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Flying Block
+    ID: 14
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/a/a7/Flying_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Propeller
+    ID: 26
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/c/ce/Propeller-thumb.png/revision/latest/scale-to-width-down/18?cb=20200519023110
+  - name: Small Propeller
+    ID: 55
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/2/2e/Small_Propeller-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Wing
+    ID: 25
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/f/fc/Wing-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110
+  - name: Wing Panel
+    ID: 34
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/7/70/Wing_Panel-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Ballast
+    ID: 35
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/a/a4/Ballast-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109
+  - name: Balloon
+    ID: 43
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/5/57/Balloon-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109
+  - name: Hot Air Balloon
+    ID: 74
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/0/00/Hot_Air_Balloon-thumb.png/revision/latest/scale-to-width-down/24?cb=20220520015857
+  - name: Sensor
+    ID: 65
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/a/ab/Sensor-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Timer
+    ID: 66
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/d/d7/Timer-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Altimeter
+    ID: 67
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/d/d1/Altimeter-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
+  - name: Logic Gate
+    ID: 68
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/f/fd/Logic_Gate-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110
+  - name: Anglometer
+    ID: 69
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/9/96/Anglometer-thumb.png/revision/latest/scale-to-width-down/23?cb=20200519023109
+  - name: Speedometer
+    ID: 70
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/2/2b/Speedometer-thumb.png/revision/latest/scale-to-width-down/22?cb=20200519023110
+  - name: Length Detector
+    ID: 75
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/1/14/Length_Detector-thumb.png/revision/latest/scale-to-width-down/18?cb=20230428115629
+  - name: Pin Block
+    ID: 57
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/3/32/Pin_Block-thumb.png/revision/latest/scale-to-width-down/11?cb=20200519023110
+  - name: Camera Block
+    ID: 58
+    blockType: 0
+    material: 1
+    cost: 0
+    sprite: {fileID: 0}
+    spriteUrl: https://static.wikia.nocookie.net/besiege/images/6/66/Camera_Block-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110
