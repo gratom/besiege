@@ -21,6 +21,87 @@ public class rawAnalizer : ScriptableObject
     public List<Block> blocks;
     public List<Sprite> sprites;
 
+    public bool ToIgnore;
+    public bool UseIgnore;
+    public List<int> Ignore;
+
+    public TextAsset machine;
+
+    private Dictionary<int, Block> blocksDic;
+
+    [ContextMenu("COST")]
+    public void CostMachine()
+    {
+        List<string> prepared = machine.text.Split("<Block id=\"").Skip(1).ToList();
+        List<int> blocksIDs = new List<int>();
+
+        int countOfTanks = 0;
+        foreach (string s in prepared)
+        {
+            int pos = s.IndexOf("\" guid");
+            int id = int.Parse(s.Substring(0, pos));
+            blocksIDs.Add(id);
+
+            if (id == 35) //ballast
+            {
+                countOfTanks++;
+            }
+        }
+
+        if (ToIgnore)
+        {
+            Ignore = blocksIDs;
+        }
+
+        if (UseIgnore)
+        {
+            foreach (int i in Ignore)
+            {
+                if (blocksIDs.Contains(i))
+                {
+                    blocksIDs.Remove(i);
+                }
+                if (i == 35)
+                {
+                    countOfTanks--;
+                }
+            }
+        }
+
+        blocksDic = new Dictionary<int, Block>();
+        foreach (Block block in blocks)
+        {
+            blocksDic.Add(block.ID, block);
+        }
+
+        int sumGold = 0;
+        int sumWood = 0;
+        int sumSteel = 0;
+        int sumFabric = 0;
+        float sumFuel = 0;
+        foreach (int blocksID in blocksIDs)
+        {
+            sumGold += blocksDic[blocksID].costGold;
+            sumWood += blocksDic[blocksID].costWood;
+            sumSteel += blocksDic[blocksID].costSteel;
+            sumFabric += blocksDic[blocksID].costFabric;
+            sumFuel += blocksDic[blocksID].costFuel;
+        }
+
+        string strOut = $"Gold : {sumGold}\nWood : {sumWood}\nSteel : {sumSteel}\nFabric : {sumFabric}\nFuel total : {sumFuel:0.000}\nFuel tanks : {countOfTanks}";
+        if (countOfTanks == 0)
+        {
+            strOut += "\nNo Tanks!!!";
+        }
+        else
+        {
+            strOut += "\nFuel result value = " + (Mathf.RoundToInt(sumFuel / countOfTanks * 100f) / 100f).ToString("0.00");
+        }
+        Debug.Log(strOut);
+
+
+    }
+
     [ContextMenu("Parse")]
     public void Parse()
     {
@@ -90,8 +171,6 @@ public class rawAnalizer : ScriptableObject
         }
     }
 
-
-
     // Save texture to file
     private void SaveTextureToFile(Texture2D texture, string filePath)
     {
@@ -117,8 +196,6 @@ public class rawAnalizer : ScriptableObject
         Sprite sprite = Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), Vector2.one * 0.5f);
         return sprite;
     }
-
-
 }
 
 [Serializable]
@@ -128,7 +205,11 @@ public class Block
     public int ID;
     public BlockType blockType;
     public BlockMaterial material;
-    public int cost;
+    public int costGold;
+    public int costWood;
+    public int costSteel;
+    public int costFabric;
+    public float costFuel;
     public Sprite sprite;
     public string spriteUrl;
 }

@@ -38,8 +38,17 @@ public class BlockDrawer : PropertyDrawer
         singleFieldRect.y += lineHeight + verticalSpacing;
 
         // Draw cost field
-        EditorGUI.PropertyField(singleFieldRect, property.FindPropertyRelative("cost"));
+        EditorGUI.PropertyField(singleFieldRect, property.FindPropertyRelative("costGold"));
         singleFieldRect.y += lineHeight + verticalSpacing;
+        EditorGUI.PropertyField(singleFieldRect, property.FindPropertyRelative("costWood"));
+        singleFieldRect.y += lineHeight + verticalSpacing;
+        EditorGUI.PropertyField(singleFieldRect, property.FindPropertyRelative("costSteel"));
+        singleFieldRect.y += lineHeight + verticalSpacing;
+        EditorGUI.PropertyField(singleFieldRect, property.FindPropertyRelative("costFabric"));
+        singleFieldRect.y += lineHeight + verticalSpacing;
+        EditorGUI.PropertyField(singleFieldRect, property.FindPropertyRelative("costFuel"));
+        singleFieldRect.y += lineHeight + verticalSpacing;
+
 
         // Draw sprite field
         EditorGUI.PropertyField(singleFieldRect, property.FindPropertyRelative("sprite"));
@@ -50,7 +59,6 @@ public class BlockDrawer : PropertyDrawer
         Sprite spriteTexture = property.FindPropertyRelative("sprite").objectReferenceValue as Sprite;
         if (spriteTexture != null)
         {
-            Debug.Log(1);
             EditorGUI.DrawTextureTransparent(previewRect, spriteTexture.texture, ScaleMode.ScaleToFit);
         }
 
@@ -71,7 +79,7 @@ public class BlockDrawer : PropertyDrawer
     public override float GetPropertyHeight(SerializedProperty property, GUIContent label)
     {
         // Total height of all fields plus the height of the preview image
-        return 5 * (lineHeight + verticalSpacing) + previewImageHeight + verticalSpacing * 5;
+        return 9 * (lineHeight + verticalSpacing) + previewImageHeight + verticalSpacing * 5;
     }
 }
 #endif

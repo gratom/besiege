@@ -35,6 +35,7 @@ namespace Global.Components.UserInterface
             if (canvas == null)
             {
                 canvas = GetComponent<Canvas>();
+                canvas.renderMode = RenderMode.ScreenSpaceOverlay;
                 CanvasScaler scaler = GetComponent<CanvasScaler>();
                 scaler.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
                 scaler.referenceResolution = new Vector2(1080, 1920); //portrait Android

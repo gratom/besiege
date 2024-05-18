@@ -8,7 +8,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6a5b55f2e18b419e9faedac06ac6af94817600/d5/cf6e9e0d/DefaultAsset.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/raw/rawAnalizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/raw/ANYoTXT.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2gbvzEx4p61EOgst8w9OlXmw4JA" />
   <component name="ProjectViewState">
