@@ -79,16 +79,26 @@ public class rawAnalizer : ScriptableObject
         int sumSteel = 0;
         int sumFabric = 0;
         float sumFuel = 0;
+
+        int goldForConsumables = 0;
+
         foreach (int blocksID in blocksIDs)
         {
-            sumGold += blocksDic[blocksID].costGold;
-            sumWood += blocksDic[blocksID].costWood;
-            sumSteel += blocksDic[blocksID].costSteel;
-            sumFabric += blocksDic[blocksID].costFabric;
-            sumFuel += blocksDic[blocksID].costFuel;
+            if (blocksDic[blocksID].blockType != BlockType.other)
+            {
+                sumGold += blocksDic[blocksID].costGold;
+                sumWood += blocksDic[blocksID].costWood;
+                sumSteel += blocksDic[blocksID].costSteel;
+                sumFabric += blocksDic[blocksID].costFabric;
+                sumFuel += blocksDic[blocksID].costFuel;
+            }
+            else
+            {
+                goldForConsumables += blocksDic[blocksID].costGold;
+            }
         }
 
-        string strOut = $"Gold : {sumGold}\nWood : {sumWood}\nSteel : {sumSteel}\nFabric : {sumFabric}\nFuel total : {sumFuel:0.000}\nFuel tanks : {countOfTanks}";
+        string strOut = $"Gold : m{sumGold} + c{goldForConsumables} = t{sumGold + goldForConsumables} \nWood : {sumWood}\nSteel : {sumSteel}\nFabric : {sumFabric}\nFuel total : {sumFuel:0.000}\nFuel tanks : {countOfTanks}";
         if (countOfTanks == 0)
         {
             strOut += "\nNo Tanks!!!";
@@ -96,6 +106,10 @@ public class rawAnalizer : ScriptableObject
         else
         {
             strOut += "\nFuel result value = " + (Mathf.RoundToInt(sumFuel / countOfTanks * 100f) / 100f).ToString("0.00");
+        }
+        if (goldForConsumables != 0)
+        {
+            strOut += "\nConsumables : " + goldForConsumables;
         }
         Debug.Log(strOut);
 
