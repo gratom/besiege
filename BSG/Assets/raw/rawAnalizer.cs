@@ -119,17 +119,8 @@ public class rawAnalizer : ScriptableObject
     [ContextMenu("Parse")]
     public void Parse()
     {
-        //blocks = new List<Block>();
 
         List<string> raw = text.text.Split("<td><a href=").Skip(1).ToList();
-
-        // for (int i = raw.Count - 1; i >= 0; i--)
-        // {
-        //     if (i % 2 != 0)
-        //     {
-        //         raw.RemoveAt(i);
-        //     }
-        // }
 
         for (int i = 0; i < raw.Count; i++)
         {

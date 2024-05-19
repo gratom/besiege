@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Besiege machine save file.-->
+<Machine version="1" bsgVersion="1.3" name="DIRI2">
+    <!--The machine's position and rotation.-->
+    <Global>
+        <Position x="0" y="1.366449" z="3.978327E-12" />
+        <Rotation x="0" y="0" z="-4.250882E-32" w="1" />
+    </Global>
+    <!--The machine's additional data or modded data.-->
+    <Data>
+        <StringArray key="requiredMods" />
+    </Data>
+    <!--The machine's blocks.-->
+    <Blocks>
+        <Block id="0" guid="3399bd48-6c7e-48b1-ac39-87cb4f1bde68">
+            <Transform>
+                <Position x="0.01702881" y="11.32522" z="-1.002136" />
+                <Rotation x="6.821212E-13" y="1" z="-3.258423E-07" w="-6.462349E-27" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="63" guid="58da44e1-bad2-4280-a5e0-8855e11335ab">
+            <Transform>
+                <Position x="4.827713" y="1.628647E-11" z="17.23949" />
+                <Rotation x="0" y="-1" z="2.901916E-32" w="-2.204052E-39" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Integer key="length">3</Integer>
+            </Data>
+        </Block>
+        <Block id="35" guid="3799bb90-6011-4b81-8268-964e82ca52a2">
+            <Transform>
+                <Position x="4.827713" y="1.30464E-11" z="14.23949" />
+                <Rotation x="0" y="-1" z="2.901916E-32" w="-2.204052E-39" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="63" guid="4ac407f4-2031-49d3-b9ee-9887b2afbb68">
+            <Transform>
+                <Position x="4.827713" y="1.196637E-11" z="13.23949" />
+                <Rotation x="0" y="-1" z="2.901916E-32" w="-2.204052E-39" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Integer key="length">3</Integer>
+            </Data>
+        </Block>
+        <Block id="63" guid="d15001cd-c6c1-4362-8b40-be4ae523b5bd">
+            <Transform>
+                <Position x="4.327713" y="1.274797E-11" z="13.73949" />
+                <Rotation x="-2.707087E-21" y="0.7071068" z="5.813109E-22" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Integer key="length">3</Integer>
+            </Data>
+        </Block>
+        <Block id="63" guid="5ddccecf-eb64-4466-b7f6-37a0174cf87b">
+            <Transform>
+                <Position x="5.327713" y="1.22648E-11" z="13.73949" />
+                <Rotation x="-5.813109E-22" y="-0.7071068" z="-2.707087E-21" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Integer key="length">3</Integer>
+            </Data>
+        </Block>
+        <Block id="13" guid="c808d2c9-cdef-4a42-883f-1a5c79d8b32d">
+            <Transform>
+                <Position x="4.827713" y="0.4021068" z="16.73949" />
+                <Rotation x="0.7071068" y="-1.826942E-20" z="-6.842673E-21" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-left">
+                    <String>LeftArrow</String>
+                    <String>Message=gas</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <StringArray key="bmt-right">None</StringArray>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-autoReturn">False</Boolean>
+                <Single key="bmt-rotation-speed">0.03</Single>
+                <Single key="bmt-tension">1</Single>
+                <String key="bmt-TransformHolder" />
+                <Boolean key="flipped">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="65" guid="2d19a240-64f7-41fd-880f-a393e178b821">
+            <Transform>
+                <Position x="4.827713" y="1.5" z="16.73949" />
+                <Rotation x="-3.090861E-08" y="-0.7071066" z="-0.7071069" w="3.090863E-08" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate">B</StringArray>
+                <StringArray key="bmt-emulate">
+                    <String>C</String>
+                    <String>Message=timerStart</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Boolean key="bmt-non-automatic">False</Boolean>
+                <Boolean key="bmt-hold-to-activate">True</Boolean>
+                <Boolean key="bmt-reverse">False</Boolean>
+                <Boolean key="bmt-ignore-static">False</Boolean>
+                <Single key="bmt-distance">1</Single>
+                <Single key="bmt-radius">0.25</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="66" guid="75e4bd47-1775-4b49-a815-c0b0a86fa327">
+            <Transform>
+                <Position x="4.327713" y="1.166795E-11" z="12.73949" />
+                <Rotation x="1.236345E-07" y="0.7071068" z="-1.236345E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate">
+                    <String>B</String>
+                    <String>Message=timerStart</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <StringArray key="bmt-emulate">
+                    <String>C</String>
+                    <String>Message=gas2</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-hold-to-activate">False</Boolean>
+                <Boolean key="bmt-can-stop">False</Boolean>
+                <Boolean key="bmt-loop">False</Boolean>
+                <Single key="bmt-wait">0</Single>
+                <Single key="bmt-emulation-time">1</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="65" guid="b5f50a9f-9e44-4f85-95e9-373fc555af5d">
+            <Transform>
+                <Position x="4.827713" y="1.5" z="10.73949" />
+                <Rotation x="-0.6532493" y="-0.2706765" z="-0.2706766" w="0.6532487" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate">B</StringArray>
+                <StringArray key="bmt-emulate">
+                    <String>C</String>
+                    <String>Message=stop</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Boolean key="bmt-non-automatic">False</Boolean>
+                <Boolean key="bmt-hold-to-activate">True</Boolean>
+                <Boolean key="bmt-reverse">False</Boolean>
+                <Boolean key="bmt-ignore-static">False</Boolean>
+                <Single key="bmt-distance">1</Single>
+                <Single key="bmt-radius">0.25</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="13" guid="15ba5ec7-ee59-4f26-a17d-aea42c96c7dc">
+            <Transform>
+                <Position x="4.827713" y="0.4021068" z="10.73949" />
+                <Rotation x="0.2706765" y="-0.6532492" z="-0.6532488" w="-0.2706765" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-left">
+                    <String>LeftArrow</String>
+                    <String>Message=gas2</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <StringArray key="bmt-right">None</StringArray>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-autoReturn">False</Boolean>
+                <Single key="bmt-rotation-speed">0.65</Single>
+                <Single key="bmt-tension">1</Single>
+                <String key="bmt-TransformHolder" />
+                <Boolean key="flipped">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="68" guid="579bda8d-3e5f-4ffc-9c7e-74a22d9b31a5">
+            <Transform>
+                <Position x="7.827713" y="0.5000005" z="13.73949" />
+                <Rotation x="-0.4999999" y="-0.5000001" z="-0.5000001" w="0.4999999" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate-A">
+                    <String>None</String>
+                    <String>Message=stop</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <StringArray key="bmt-activate-B">
+                    <String>L</String>
+                    <String>Message=fuel</String>
+                </StringArray>
+                <Integer key="bmt-Gate">0</Integer>
+                <Boolean key="bmt-toggle-mode">True</Boolean>
+                <Boolean key="bmt-inverted">True</Boolean>
+                <StringArray key="bmt-emulate">
+                    <String>C</String>
+                    <String>Message=fuel</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="68" guid="40524869-7947-4f1e-beb0-a60d04f8843e">
+            <Transform>
+                <Position x="6.827713" y="0.5000005" z="13.73949" />
+                <Rotation x="-0.4999999" y="-0.5000001" z="-0.5000001" w="0.4999999" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate-A">UpArrow</StringArray>
+                <StringArray key="bmt-activate-B">
+                    <String>L</String>
+                    <String>Message=fuel</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Integer key="bmt-Gate">1</Integer>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-inverted">True</Boolean>
+                <StringArray key="bmt-emulate">
+                    <String>None</String>
+                    <String>Message=gas</String>
+                </StringArray>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="68" guid="b7f33f90-3f78-4b33-9dff-646f54c68004">
+            <Transform>
+                <Position x="5.827713" y="0.5000005" z="13.73949" />
+                <Rotation x="-0.4999999" y="-0.5000001" z="-0.5000001" w="0.4999999" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate-A">UpArrow</StringArray>
+                <StringArray key="bmt-activate-B">
+                    <String>L</String>
+                    <String>Message=fuel</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Integer key="bmt-Gate">1</Integer>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-inverted">True</Boolean>
+                <StringArray key="bmt-emulate">
+                    <String>None</String>
+                    <String>Message=gas</String>
+                </StringArray>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="68" guid="98a6622b-bb30-4506-af1c-904529643135">
+            <Transform>
+                <Position x="4.827713" y="0.5000005" z="13.73949" />
+                <Rotation x="-0.4999999" y="-0.5000001" z="-0.5000001" w="0.4999999" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate-A">RightArrow</StringArray>
+                <StringArray key="bmt-activate-B">
+                    <String>L</String>
+                    <String>Message=fuel</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Integer key="bmt-Gate">1</Integer>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-inverted">True</Boolean>
+                <StringArray key="bmt-emulate">
+                    <String>C</String>
+                    <String>Message=left</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="68" guid="8e40d0f8-0df3-40d1-8106-0257cb7a6fe2">
+            <Transform>
+                <Position x="3.827713" y="0.5000005" z="13.73949" />
+                <Rotation x="-0.4999998" y="-0.5000002" z="-0.5000002" w="0.4999998" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate-A">KeypadPlus</StringArray>
+                <StringArray key="bmt-activate-B">
+                    <String>L</String>
+                    <String>Message=fuel</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Integer key="bmt-Gate">1</Integer>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-inverted">True</Boolean>
+                <StringArray key="bmt-emulate">
+                    <String>C</String>
+                    <String>Message=down</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="68" guid="cc62e6cc-826f-4ed0-9495-ab8d8d56f2d4">
+            <Transform>
+                <Position x="2.827713" y="0.5000005" z="13.73949" />
+                <Rotation x="-0.4999998" y="-0.5000002" z="-0.5000002" w="0.4999998" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate-A">KeypadMinus</StringArray>
+                <StringArray key="bmt-activate-B">
+                    <String>L</String>
+                    <String>Message=fuel</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Integer key="bmt-Gate">1</Integer>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-inverted">True</Boolean>
+                <StringArray key="bmt-emulate">
+                    <String>C</String>
+                    <String>Message=up</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="68" guid="886281c8-46f1-408d-a47d-8858e4bdc900">
+            <Transform>
+                <Position x="1.827713" y="0.5000005" z="13.73949" />
+                <Rotation x="-0.4999998" y="-0.5000002" z="-0.5000002" w="0.4999998" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate-A">Keypad8</StringArray>
+                <StringArray key="bmt-activate-B">
+                    <String>L</String>
+                    <String>Message=fuel</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Integer key="bmt-Gate">1</Integer>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-inverted">True</Boolean>
+                <StringArray key="bmt-emulate">
+                    <String>C</String>
+                    <String>Message=forward</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="41" guid="db982c73-4cd8-4665-a1a6-03ca9b07fa33">
+            <Transform>
+                <Position x="4.827713" y="0.5000005" z="12.73949" />
+                <Rotation x="-0.4999999" y="-0.5000001" z="-0.5000001" w="0.4999999" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Integer key="length">2</Integer>
+            </Data>
+        </Block>
+        <Block id="63" guid="d12f8960-5f6c-429f-86e9-81d339ed46b1">
+            <Transform>
+                <Position x="4.327713" y="1.490802E-11" z="15.73949" />
+                <Rotation x="0.5000001" y="-0.4999999" z="-0.5000001" w="0.4999999" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Integer key="length">3</Integer>
+            </Data>
+        </Block>
+        <Block id="63" guid="0ac22583-4007-4d52-bd28-f88bccb0415e">
+            <Transform>
+                <Position x="4.327713" y="1.058792E-11" z="11.73949" />
+                <Rotation x="0.5000001" y="-0.4999999" z="-0.5000001" w="0.4999999" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Integer key="length">3</Integer>
+            </Data>
+        </Block>
+        <Block id="41" guid="b098dd9f-1ea5-4e94-aff6-e1e264c2d99d">
+            <Transform>
+                <Position x="4.827713" y="0.5000005" z="14.73949" />
+                <Rotation x="-0.4999999" y="-0.5000001" z="-0.5000001" w="0.4999999" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Integer key="length">2</Integer>
+            </Data>
+        </Block>
+        <Block id="7" guid="3aa2537e-51d3-4c07-acc1-1c84daa661d7">
+            <Transform>
+                <Position x="1.327713" y="1.635753E-11" z="15.73949" />
+                <Rotation x="0.5000002" y="-0.4999997" z="-0.5000004" w="0.4999998" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.370906E-06</X>
+                    <Y>-2.000001</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>0</X>
+                    <Y>270</Y>
+                    <Z>269.9999</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>6.830189E-06</X>
+                    <Y>270</Y>
+                    <Z>270</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="ce4e0fdb-d613-4f19-844f-e8737d427c03">
+            <Transform>
+                <Position x="1.327713" y="1.203743E-11" z="11.73949" />
+                <Rotation x="0.5000002" y="-0.4999997" z="-0.5000004" w="0.4999998" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.370906E-06</X>
+                    <Y>2.000001</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>0</X>
+                    <Y>270</Y>
+                    <Z>269.9999</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>6.830189E-06</X>
+                    <Y>270</Y>
+                    <Z>270</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="08f4e3be-2c52-4dae-8dfc-ec6083e3336e">
+            <Transform>
+                <Position x="4.827713" y="2.5" z="14.73949" />
+                <Rotation x="-0.4999996" y="-0.5000003" z="-0.5000004" w="0.4999997" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-2</X>
+                    <Y>-2.801418E-06</Y>
+                    <Z>-3.576279E-07</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>269.9999</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>269.9999</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="68" guid="bfaf2fcc-fcc7-418a-9b0f-0434dbcef9dc">
+            <Transform>
+                <Position x="2.827713" y="0.5000005" z="11.73949" />
+                <Rotation x="-0.4999996" y="-0.5" z="-0.5000003" w="0.5000001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate-A">None</StringArray>
+                <StringArray key="bmt-activate-B">None</StringArray>
+                <Integer key="bmt-Gate">1</Integer>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-inverted">True</Boolean>
+                <StringArray key="bmt-emulate">None</StringArray>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="68" guid="52bbdb4d-cd9d-4001-9597-8b6974a3a5c2">
+            <Transform>
+                <Position x="1.827713" y="0.5000005" z="11.73949" />
+                <Rotation x="-0.4999996" y="-0.5" z="-0.5000003" w="0.5000001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate-A">None</StringArray>
+                <StringArray key="bmt-activate-B">None</StringArray>
+                <Integer key="bmt-Gate">1</Integer>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-inverted">True</Boolean>
+                <StringArray key="bmt-emulate">None</StringArray>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="68" guid="e6cf8973-ecf2-434f-bee5-8bdf3dccd95f">
+            <Transform>
+                <Position x="2.827713" y="0.5000005" z="15.73949" />
+                <Rotation x="-0.4999996" y="-0.5" z="-0.5000003" w="0.5000001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate-A">
+                    <String>U</String>
+                    <String>Message=forward</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <StringArray key="bmt-activate-B">
+                    <String>I</String>
+                    <String>Message=up</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Integer key="bmt-Gate">2</Integer>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-inverted">True</Boolean>
+                <StringArray key="bmt-emulate">
+                    <String>C</String>
+                    <String>Message=gas</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="68" guid="653ec4b2-58b9-417d-a725-1ae06414f0c1">
+            <Transform>
+                <Position x="1.827713" y="0.5000005" z="15.73949" />
+                <Rotation x="-0.4999996" y="-0.5" z="-0.5000003" w="0.5000001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate-A">
+                    <String>U</String>
+                    <String>Ignored=True</String>
+                    <String>Message=left</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <StringArray key="bmt-activate-B">
+                    <String>I</String>
+                    <String>Message=down</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Integer key="bmt-Gate">2</Integer>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-inverted">True</Boolean>
+                <StringArray key="bmt-emulate">
+                    <String>C</String>
+                    <String>Message=gas</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="57" guid="0a9c0ce7-be0f-4274-95b7-1668267e0e8c">
+            <Transform>
+                <Position x="1.827713" y="1.395589E-11" z="13.73949" />
+                <Rotation x="-5.526727E-13" y="-0.7071068" z="2.110204E-13" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-unpin">P</StringArray>
+                <Boolean key="bmt-hide-visual">False</Boolean>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="57" guid="7e71bdaa-b8da-44f6-93dd-18f38bcb5b65">
+            <Transform>
+                <Position x="7.827713" y="1.105688E-11" z="13.73949" />
+                <Rotation x="2.110204E-13" y="-0.7071068" z="5.526727E-13" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-unpin">P</StringArray>
+                <Boolean key="bmt-hide-visual">False</Boolean>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="57" guid="c88eca94-dd33-4443-aa2e-5a2bd78ef21e">
+            <Transform>
+                <Position x="4.827713" y="1.574646E-11" z="16.73949" />
+                <Rotation x="-2.415846E-13" y="-1" z="5.400125E-13" w="4.371139E-08" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-unpin">P</StringArray>
+                <Boolean key="bmt-hide-visual">False</Boolean>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="57" guid="c06d16a6-b4ca-42e4-b16a-f59117ce1648">
+            <Transform>
+                <Position x="4.827713" y="9.266312E-12" z="10.73949" />
+                <Rotation x="-2.415846E-13" y="-1" z="5.400125E-13" w="4.371139E-08" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-unpin">P</StringArray>
+                <Boolean key="bmt-hide-visual">False</Boolean>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="58" guid="dcbd8bae-aa8e-4b72-839c-9fdee1037914">
+            <Transform>
+                <Position x="3.327713" y="0.5000005" z="13.73949" />
+                <Rotation x="0.4999999" y="0.5000001" z="0.5000001" w="-0.4999999" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-activate">Keypad0</StringArray>
+                <Integer key="bmt-mode">0</Integer>
+                <Boolean key="bmt-advanced-options">False</Boolean>
+                <Single key="bmt-distance">13.5507</Single>
+                <Single key="bmt-height">90</Single>
+                <Single key="bmt-rotation">-180</Single>
+                <Single key="bmt-pitch">0</Single>
+                <Single key="bmt-roll">0</Single>
+                <Single key="bmt-yaw">0</Single>
+                <Single key="bmt-smooth">0.75</Single>
+                <Single key="bmt-fov">41</Single>
+                <Single key="bmt-predict">2</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="35" guid="304d0ac8-a690-4f3b-a59c-1e42a1c3b17e">
+            <Transform>
+                <Position x="0.01702881" y="6.825222" z="-1.002136" />
+                <Rotation x="-0.4999999" y="-0.4999999" z="0.5000002" w="-0.5000002" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">2</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="14" guid="47ee5c00-77db-4f3a-94fb-56bb068d64ee">
+            <Transform>
+                <Position x="0.01702881" y="8.325222" z="-2.502136" />
+                <Rotation x="-0.7071068" y="-0.7071067" z="-2.235185E-06" w="2.403772E-06" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-spin">
+                    <String>Keypad8</String>
+                    <String>Message=forward</String>
+                    <String>Use=True</String>
+                </StringArray>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-reverse">False</Boolean>
+                <Single key="bmt-speed">1.25</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="27" guid="318e5f83-a4d0-4195-bbf2-96698666aa39">
+            <Transform>
+                <Position x="0.01702881" y="6.325222" z="-1.002136" />
+                <Rotation x="0.4999998" y="0.4999999" z="-0.5000002" w="0.5000002" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-attach">Keypad1</StringArray>
+                <StringArray key="bmt-detach">Keypad1</StringArray>
+                <Boolean key="bmt-grab-static">False</Boolean>
+                <Boolean key="bmt-grab-static-only">False</Boolean>
+                <Boolean key="bmt-auto-grab">True</Boolean>
+                <Boolean key="bmt-flexible">False</Boolean>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="13" guid="c1042b52-5c6d-49dc-8e25-2640532e6643">
+            <Transform>
+                <Position x="0.01702881" y="10.92311" z="-1.002136" />
+                <Rotation x="-0.7071066" y="1.236349E-07" z="-1.23634E-07" w="-0.7071071" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-left">Keypad4</StringArray>
+                <StringArray key="bmt-right">Keypad6</StringArray>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-autoReturn">True</Boolean>
+                <Single key="bmt-rotation-speed">1</Single>
+                <Single key="bmt-tension">1</Single>
+                <String key="bmt-TransformHolder" />
+                <Boolean key="flipped">True</Boolean>
+            </Data>
+        </Block>
+        <Block id="34" guid="5fd9b599-15f5-4b4e-b1d5-2fe296e8be7d">
+            <Transform>
+                <Position x="0.01702881" y="9.825222" z="-1.002136" />
+                <Rotation x="0.4999999" y="0.5" z="-0.5000002" w="0.5" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="34" guid="7153233b-cc80-4525-a86b-9718d090129a">
+            <Transform>
+                <Position x="0.01702881" y="11.32522" z="-0.3632513" />
+                <Rotation x="0.114819" y="0.1148191" z="-0.6977227" w="0.6977222" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="41" guid="521b509c-8350-4753-be38-d158b21c3477">
+            <Transform>
+                <Position x="0.01702881" y="11.82522" z="-1.002136" />
+                <Rotation x="-0.7071071" y="4.823326E-13" z="-4.823326E-13" w="0.7071066" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <String key="bmt-TransformHolder" />
+                <Integer key="length">2</Integer>
+            </Data>
+        </Block>
+        <Block id="43" guid="bf1fa4c8-c3be-49e0-bc05-30a5f5e8bbd3">
+            <Transform>
+                <Position x="0.5170289" y="12.32522" z="-1.002137" />
+                <Rotation x="-2.950274E-07" y="0.7071068" z="-2.950284E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-buoyancy">1.5</Single>
+                <Single key="bmt-height">Infinity</Single>
+                <Single key="bmt-string-length">2</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="43" guid="479ad89b-bd3f-4576-9b3b-a5f270ac8a84">
+            <Transform>
+                <Position x="0.01702881" y="12.32522" z="-1.502137" />
+                <Rotation x="6.821212E-13" y="1" z="-2.682209E-07" w="-3.388125E-20" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-buoyancy">1.5</Single>
+                <Single key="bmt-height">Infinity</Single>
+                <Single key="bmt-string-length">2</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="43" guid="b2acf906-234f-4bc3-a24f-a1db194a9c5e">
+            <Transform>
+                <Position x="-0.4829713" y="12.32522" z="-1.002137" />
+                <Rotation x="-2.950284E-07" y="-0.7071068" z="2.950274E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-buoyancy">1.5</Single>
+                <Single key="bmt-height">Infinity</Single>
+                <Single key="bmt-string-length">2</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="43" guid="7b41ee3d-9327-4258-a10e-201726965fea">
+            <Transform>
+                <Position x="-0.4829713" y="13.32522" z="-1.002138" />
+                <Rotation x="-2.950284E-07" y="-0.7071068" z="2.950274E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-buoyancy">1.5</Single>
+                <Single key="bmt-height">Infinity</Single>
+                <Single key="bmt-string-length">2</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="43" guid="a56b7490-1209-4ca7-9d71-fa2a52ab41cb">
+            <Transform>
+                <Position x="0.01702881" y="13.32522" z="-1.502138" />
+                <Rotation x="6.821212E-13" y="1" z="-2.682209E-07" w="-3.388125E-20" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-buoyancy">1.5</Single>
+                <Single key="bmt-height">Infinity</Single>
+                <Single key="bmt-string-length">2</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="43" guid="eb48ec52-158d-4dd6-b0dc-ec60fb18ac3d">
+            <Transform>
+                <Position x="0.5170289" y="13.32522" z="-1.002138" />
+                <Rotation x="-2.950274E-07" y="0.7071068" z="-2.950284E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-buoyancy">1.5</Single>
+                <Single key="bmt-height">Infinity</Single>
+                <Single key="bmt-string-length">2</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="43" guid="713d038e-9f5e-4bd1-8d42-c707e6680c78">
+            <Transform>
+                <Position x="0.01702881" y="13.32522" z="-0.5021375" />
+                <Rotation x="-2.682209E-07" y="3.388125E-20" z="-6.821212E-13" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-buoyancy">1.5</Single>
+                <Single key="bmt-height">Infinity</Single>
+                <Single key="bmt-string-length">2</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="14" guid="62cc1475-fc56-476f-86d9-6a6f29eabd45">
+            <Transform>
+                <Position x="0.01702881" y="13.82522" z="-1.002138" />
+                <Rotation x="-0.7071069" y="4.823324E-13" z="-4.823327E-13" w="0.7071066" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-spin">KeypadPlus</StringArray>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-reverse">True</Boolean>
+                <Single key="bmt-speed">1.25</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+        <Block id="43" guid="e67579fd-660a-4856-849f-a22683ce227e">
+            <Transform>
+                <Position x="0.01703008" y="12.26545" z="1.538319" />
+                <Rotation x="-0.5829031" y="3.489875E-07" z="-1.861715E-07" w="0.8125417" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-buoyancy">1.5</Single>
+                <Single key="bmt-height">Infinity</Single>
+                <Single key="bmt-string-length">2</Single>
+                <String key="bmt-TransformHolder" />
+            </Data>
+        </Block>
+    </Blocks>
+</Machine>
