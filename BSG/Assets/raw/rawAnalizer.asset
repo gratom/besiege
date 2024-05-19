@@ -450,18 +450,18 @@ MonoBehaviour:
     ID: 56
     blockType: 2
     material: 1
-    costGold: 6
+    costGold: 10
     costWood: 1
     costSteel: 2
     costFabric: 0
-    costFuel: 0
+    costFuel: 0.005
     sprite: {fileID: 21300000, guid: 306344bb2f4d50b4897646b88d4928ee, type: 3}
     spriteUrl: https://static.wikia.nocookie.net/besiege/images/5/56/Water_Cannon-thumb.png/revision/latest/scale-to-width-down/19?cb=20200519023110
   - name: Torch
     ID: 47
     blockType: 0
     material: 1
-    costGold: 2
+    costGold: 3
     costWood: 0
     costSteel: 1
     costFabric: 0
@@ -637,18 +637,18 @@ MonoBehaviour:
     ID: 14
     blockType: 2
     material: 0
-    costGold: 7
+    costGold: 8
     costWood: 1
     costSteel: 0
     costFabric: 2
-    costFuel: 0.01
+    costFuel: 0.012
     sprite: {fileID: 21300000, guid: bbf3942564efbcd4ab44318071e93da1, type: 3}
     spriteUrl: https://static.wikia.nocookie.net/besiege/images/a/a7/Flying_Block-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023110
   - name: Propeller
     ID: 26
     blockType: 1
     material: 0
-    costGold: 2
+    costGold: 3
     costWood: 2
     costSteel: 0
     costFabric: 0
@@ -659,7 +659,7 @@ MonoBehaviour:
     ID: 55
     blockType: 1
     material: 0
-    costGold: 1
+    costGold: 2
     costWood: 1
     costSteel: 0
     costFabric: 0
@@ -706,7 +706,7 @@ MonoBehaviour:
     costGold: 3
     costWood: 0
     costSteel: 0
-    costFabric: 4
+    costFabric: 2
     costFuel: 0
     sprite: {fileID: 21300000, guid: b013808f98940a64e97123cf5ce96616, type: 3}
     spriteUrl: https://static.wikia.nocookie.net/besiege/images/5/57/Balloon-thumb.png/revision/latest/scale-to-width-down/24?cb=20200519023109
@@ -714,11 +714,11 @@ MonoBehaviour:
     ID: 74
     blockType: 2
     material: 0
-    costGold: 20
-    costWood: 1
+    costGold: 30
+    costWood: 3
     costSteel: 0
-    costFabric: 6
-    costFuel: 0.01
+    costFabric: 15
+    costFuel: 0.035
     sprite: {fileID: 21300000, guid: 9b6a7e539b9a1d248815c9f9c3acc387, type: 3}
     spriteUrl: https://static.wikia.nocookie.net/besiege/images/0/00/Hot_Air_Balloon-thumb.png/revision/latest/scale-to-width-down/24?cb=20220520015857
   - name: Sensor
@@ -917,6 +917,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 32a15d5ea41680247b49fc91d702ff3c, type: 3}
   - {fileID: 21300000, guid: c37ff302fba386c409bb6ab32fb38f67, type: 3}
   ToIgnore: 0
-  UseIgnore: 1
+  UseIgnore: 0
   Ignore: 000000003f000000230000003f0000003f0000003f0000000d0000004100000042000000410000000d00000044000000440000004400000044000000440000004400000044000000290000003f0000003f0000002900000007000000070000000700000044000000440000004400000044000000390000003900000039000000390000003a0000003a000000
-  machine: {fileID: 4900000, guid: c2d71e74b9a737843a490ea715267572, type: 3}
+  machine: {fileID: 4900000, guid: 5f841ae75ba44a04f804eded660e0572, type: 3}

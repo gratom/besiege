@@ -12,6 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5cb204bfebeabb24c93e73f707f7ac99, type: 3}
   m_Name: CityManager
   m_EditorClassIdentifier: 
-  orderMaxSum: 0
-  currentCityIndex: 0
-  cities: []
+  orderMaxSum: 25
+  currentCity: 1
+  orders: []
+  canGround: 0
+  canWater: 0
+  canAir: 0
+  cities:
+  - name: 0
+    isGrounded: 0
+    isWater: 0
+    isAir: 0
+    ProductsToSell: []
+    ProductsToBuy: []
